@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\4.45.operator_overloading\bin\Debug\net6.0\4.45.operator_overloading.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\4.45.operator_overloading\bin\Debug\net6.0\4.45.operator_overloading.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.45.operator_overloading\bin\Debug\net6.0\4.45.operator_overloading.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.45.operator_overloading\bin\Debug\net6.0\4.45.operator_overloading.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.45.operator_overloading\bin\Debug\net6.0\4.45.operator_overloading.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.45.operator_overloading\obj\Debug\net6.0\4.45.operator_overloading.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.45.operator_overloading\obj\Debug\net6.0\4.45.operator_overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\4.45.operator_overloading\obj\Debug\net6.0\4.45.operator_overloading.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.45.operator_overloading\obj\Debug\net6.0\4.45.operator_overloading.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\4.45.operator_overloading\obj\Debug\net6.0\4.45.operator_overloading.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.45.operator_overloading\obj\Debug\net6.0\4.45.operator_overloading.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.45.operator_overloading\obj\Debug\net6.0\refint\4.45.operator_overloading.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.45.operator_overloading\obj\Debug\net6.0\4.45.operator_overloading.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.45.operator_overloading\obj\Debug\net6.0\4.45.operator_overloading.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.45.operator_overloading\obj\Debug\net6.0\ref\4.45.operator_overloading.dll
