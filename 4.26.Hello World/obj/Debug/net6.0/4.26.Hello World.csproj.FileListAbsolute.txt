@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\4.26.Hello World\bin\Debug\net6.0\4.26.Hello World.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\4.26.Hello World\bin\Debug\net6.0\4.26.Hello World.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.26.Hello World\bin\Debug\net6.0\4.26.Hello World.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.26.Hello World\bin\Debug\net6.0\4.26.Hello World.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.26.Hello World\bin\Debug\net6.0\4.26.Hello World.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.26.Hello World\obj\Debug\net6.0\4.26.Hello World.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.26.Hello World\obj\Debug\net6.0\4.26.Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\4.26.Hello World\obj\Debug\net6.0\4.26.Hello World.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.26.Hello World\obj\Debug\net6.0\4.26.Hello World.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\4.26.Hello World\obj\Debug\net6.0\4.26.Hello World.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.26.Hello World\obj\Debug\net6.0\4.26.Hello World.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.26.Hello World\obj\Debug\net6.0\refint\4.26.Hello World.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.26.Hello World\obj\Debug\net6.0\4.26.Hello World.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.26.Hello World\obj\Debug\net6.0\4.26.Hello World.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.26.Hello World\obj\Debug\net6.0\ref\4.26.Hello World.dll
