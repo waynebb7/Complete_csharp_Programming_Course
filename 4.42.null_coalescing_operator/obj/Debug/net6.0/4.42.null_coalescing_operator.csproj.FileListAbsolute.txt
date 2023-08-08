@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\4.42.null_coalescing_operator\bin\Debug\net6.0\4.42.null_coalescing_operator.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\4.42.null_coalescing_operator\bin\Debug\net6.0\4.42.null_coalescing_operator.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.42.null_coalescing_operator\bin\Debug\net6.0\4.42.null_coalescing_operator.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.42.null_coalescing_operator\bin\Debug\net6.0\4.42.null_coalescing_operator.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.42.null_coalescing_operator\bin\Debug\net6.0\4.42.null_coalescing_operator.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.42.null_coalescing_operator\obj\Debug\net6.0\4.42.null_coalescing_operator.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.42.null_coalescing_operator\obj\Debug\net6.0\4.42.null_coalescing_operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\4.42.null_coalescing_operator\obj\Debug\net6.0\4.42.null_coalescing_operator.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.42.null_coalescing_operator\obj\Debug\net6.0\4.42.null_coalescing_operator.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\4.42.null_coalescing_operator\obj\Debug\net6.0\4.42.null_coalescing_operator.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.42.null_coalescing_operator\obj\Debug\net6.0\4.42.null_coalescing_operator.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.42.null_coalescing_operator\obj\Debug\net6.0\refint\4.42.null_coalescing_operator.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.42.null_coalescing_operator\obj\Debug\net6.0\4.42.null_coalescing_operator.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.42.null_coalescing_operator\obj\Debug\net6.0\4.42.null_coalescing_operator.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.42.null_coalescing_operator\obj\Debug\net6.0\ref\4.42.null_coalescing_operator.dll

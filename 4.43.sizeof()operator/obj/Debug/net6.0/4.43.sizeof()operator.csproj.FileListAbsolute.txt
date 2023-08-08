@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\4.43.sizeof()operator\bin\Debug\net6.0\4.43.sizeof()operator.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\4.43.sizeof()operator\bin\Debug\net6.0\4.43.sizeof()operator.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.43.sizeof()operator\bin\Debug\net6.0\4.43.sizeof()operator.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.43.sizeof()operator\bin\Debug\net6.0\4.43.sizeof()operator.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.43.sizeof()operator\bin\Debug\net6.0\4.43.sizeof()operator.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.43.sizeof()operator\obj\Debug\net6.0\4.43.sizeof()operator.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.43.sizeof()operator\obj\Debug\net6.0\4.43.sizeof()operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\4.43.sizeof()operator\obj\Debug\net6.0\4.43.sizeof()operator.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.43.sizeof()operator\obj\Debug\net6.0\4.43.sizeof()operator.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\4.43.sizeof()operator\obj\Debug\net6.0\4.43.sizeof()operator.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.43.sizeof()operator\obj\Debug\net6.0\4.43.sizeof()operator.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.43.sizeof()operator\obj\Debug\net6.0\refint\4.43.sizeof()operator.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.43.sizeof()operator\obj\Debug\net6.0\4.43.sizeof()operator.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.43.sizeof()operator\obj\Debug\net6.0\4.43.sizeof()operator.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.43.sizeof()operator\obj\Debug\net6.0\ref\4.43.sizeof()operator.dll

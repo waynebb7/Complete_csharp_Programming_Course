@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\4.41.ternary_operator\obj\Debug\net6.0\4.41.ternary_operator.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.41.ternary_operator\obj\Debug\net6.0\4.41.ternary_operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\4.41.ternary_operator\obj\Debug\net6.0\4.41.ternary_operator.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.41.ternary_operator\obj\Debug\net6.0\4.41.ternary_operator.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\4.41.ternary_operator\obj\Debug\net6.0\4.41.ternary_operator.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.41.ternary_operator\bin\Debug\net6.0\4.41.ternary_operator.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\4.41.ternary_operator\bin\Debug\net6.0\4.41.ternary_operator.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.41.ternary_operator\bin\Debug\net6.0\4.41.ternary_operator.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.41.ternary_operator\bin\Debug\net6.0\4.41.ternary_operator.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.41.ternary_operator\bin\Debug\net6.0\4.41.ternary_operator.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.41.ternary_operator\obj\Debug\net6.0\4.41.ternary_operator.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.41.ternary_operator\obj\Debug\net6.0\refint\4.41.ternary_operator.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.41.ternary_operator\obj\Debug\net6.0\4.41.ternary_operator.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.41.ternary_operator\obj\Debug\net6.0\4.41.ternary_operator.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.41.ternary_operator\obj\Debug\net6.0\ref\4.41.ternary_operator.dll
