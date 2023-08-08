@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\LeetCodeEasy001\bin\Debug\net6.0\LeetCodeEasy001.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\LeetCodeEasy001\bin\Debug\net6.0\LeetCodeEasy001.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\LeetCodeEasy001\bin\Debug\net6.0\LeetCodeEasy001.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\LeetCodeEasy001\bin\Debug\net6.0\LeetCodeEasy001.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\LeetCodeEasy001\bin\Debug\net6.0\LeetCodeEasy001.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\LeetCodeEasy001\obj\Debug\net6.0\LeetCodeEasy001.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\LeetCodeEasy001\obj\Debug\net6.0\LeetCodeEasy001.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\LeetCodeEasy001\obj\Debug\net6.0\LeetCodeEasy001.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\LeetCodeEasy001\obj\Debug\net6.0\LeetCodeEasy001.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\LeetCodeEasy001\obj\Debug\net6.0\LeetCodeEasy001.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\LeetCodeEasy001\obj\Debug\net6.0\LeetCodeEasy001.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\LeetCodeEasy001\obj\Debug\net6.0\refint\LeetCodeEasy001.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\LeetCodeEasy001\obj\Debug\net6.0\LeetCodeEasy001.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\LeetCodeEasy001\obj\Debug\net6.0\LeetCodeEasy001.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\LeetCodeEasy001\obj\Debug\net6.0\ref\LeetCodeEasy001.dll
