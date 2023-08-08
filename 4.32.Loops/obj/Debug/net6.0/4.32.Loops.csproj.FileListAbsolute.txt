@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\4.32.Loops\bin\Debug\net6.0\4.32.Loops.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\4.32.Loops\bin\Debug\net6.0\4.32.Loops.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.32.Loops\bin\Debug\net6.0\4.32.Loops.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.32.Loops\bin\Debug\net6.0\4.32.Loops.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.32.Loops\bin\Debug\net6.0\4.32.Loops.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.32.Loops\obj\Debug\net6.0\4.32.Loops.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.32.Loops\obj\Debug\net6.0\4.32.Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\4.32.Loops\obj\Debug\net6.0\4.32.Loops.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.32.Loops\obj\Debug\net6.0\4.32.Loops.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\4.32.Loops\obj\Debug\net6.0\4.32.Loops.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.32.Loops\obj\Debug\net6.0\4.32.Loops.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.32.Loops\obj\Debug\net6.0\refint\4.32.Loops.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.32.Loops\obj\Debug\net6.0\4.32.Loops.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.32.Loops\obj\Debug\net6.0\4.32.Loops.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.32.Loops\obj\Debug\net6.0\ref\4.32.Loops.dll

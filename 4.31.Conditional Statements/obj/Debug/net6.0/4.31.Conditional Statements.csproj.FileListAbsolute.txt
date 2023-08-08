@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\4.31.Conditional Statements\bin\Debug\net6.0\4.31.Conditional Statements.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\4.31.Conditional Statements\bin\Debug\net6.0\4.31.Conditional Statements.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.31.Conditional Statements\bin\Debug\net6.0\4.31.Conditional Statements.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.31.Conditional Statements\bin\Debug\net6.0\4.31.Conditional Statements.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.31.Conditional Statements\bin\Debug\net6.0\4.31.Conditional Statements.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.31.Conditional Statements\obj\Debug\net6.0\4.31.Conditional Statements.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.31.Conditional Statements\obj\Debug\net6.0\4.31.Conditional Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\4.31.Conditional Statements\obj\Debug\net6.0\4.31.Conditional Statements.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.31.Conditional Statements\obj\Debug\net6.0\4.31.Conditional Statements.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\4.31.Conditional Statements\obj\Debug\net6.0\4.31.Conditional Statements.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.31.Conditional Statements\obj\Debug\net6.0\4.31.Conditional Statements.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.31.Conditional Statements\obj\Debug\net6.0\refint\4.31.Conditional Statements.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.31.Conditional Statements\obj\Debug\net6.0\4.31.Conditional Statements.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.31.Conditional Statements\obj\Debug\net6.0\4.31.Conditional Statements.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.31.Conditional Statements\obj\Debug\net6.0\ref\4.31.Conditional Statements.dll

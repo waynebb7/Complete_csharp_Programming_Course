@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\4.34.Function_Basics\obj\Debug\net6.0\4.34.Function_Basics.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.34.Function_Basics\obj\Debug\net6.0\4.34.Function_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\4.34.Function_Basics\obj\Debug\net6.0\4.34.Function_Basics.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.34.Function_Basics\obj\Debug\net6.0\4.34.Function_Basics.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\4.34.Function_Basics\obj\Debug\net6.0\4.34.Function_Basics.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.34.Function_Basics\bin\Debug\net6.0\4.34.Function_Basics.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\4.34.Function_Basics\bin\Debug\net6.0\4.34.Function_Basics.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.34.Function_Basics\bin\Debug\net6.0\4.34.Function_Basics.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.34.Function_Basics\bin\Debug\net6.0\4.34.Function_Basics.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.34.Function_Basics\bin\Debug\net6.0\4.34.Function_Basics.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.34.Function_Basics\obj\Debug\net6.0\4.34.Function_Basics.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.34.Function_Basics\obj\Debug\net6.0\refint\4.34.Function_Basics.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.34.Function_Basics\obj\Debug\net6.0\4.34.Function_Basics.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.34.Function_Basics\obj\Debug\net6.0\4.34.Function_Basics.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.34.Function_Basics\obj\Debug\net6.0\ref\4.34.Function_Basics.dll
