@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\4.38.Increment_Operator\bin\Debug\net6.0\4.38.Increment_Operator.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\4.38.Increment_Operator\bin\Debug\net6.0\4.38.Increment_Operator.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.38.Increment_Operator\bin\Debug\net6.0\4.38.Increment_Operator.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.38.Increment_Operator\bin\Debug\net6.0\4.38.Increment_Operator.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.38.Increment_Operator\bin\Debug\net6.0\4.38.Increment_Operator.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.38.Increment_Operator\obj\Debug\net6.0\4.38.Increment_Operator.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.38.Increment_Operator\obj\Debug\net6.0\4.38.Increment_Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\4.38.Increment_Operator\obj\Debug\net6.0\4.38.Increment_Operator.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.38.Increment_Operator\obj\Debug\net6.0\4.38.Increment_Operator.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\4.38.Increment_Operator\obj\Debug\net6.0\4.38.Increment_Operator.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.38.Increment_Operator\obj\Debug\net6.0\4.38.Increment_Operator.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.38.Increment_Operator\obj\Debug\net6.0\refint\4.38.Increment_Operator.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.38.Increment_Operator\obj\Debug\net6.0\4.38.Increment_Operator.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.38.Increment_Operator\obj\Debug\net6.0\4.38.Increment_Operator.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.38.Increment_Operator\obj\Debug\net6.0\ref\4.38.Increment_Operator.dll

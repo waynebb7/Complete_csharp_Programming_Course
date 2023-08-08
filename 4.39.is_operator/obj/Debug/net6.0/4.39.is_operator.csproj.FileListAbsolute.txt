@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\4.39.is_operator\bin\Debug\net6.0\4.39.is_operator.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\4.39.is_operator\bin\Debug\net6.0\4.39.is_operator.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.39.is_operator\bin\Debug\net6.0\4.39.is_operator.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.39.is_operator\bin\Debug\net6.0\4.39.is_operator.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.39.is_operator\bin\Debug\net6.0\4.39.is_operator.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.39.is_operator\obj\Debug\net6.0\4.39.is_operator.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.39.is_operator\obj\Debug\net6.0\4.39.is_operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\4.39.is_operator\obj\Debug\net6.0\4.39.is_operator.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.39.is_operator\obj\Debug\net6.0\4.39.is_operator.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\4.39.is_operator\obj\Debug\net6.0\4.39.is_operator.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.39.is_operator\obj\Debug\net6.0\4.39.is_operator.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.39.is_operator\obj\Debug\net6.0\refint\4.39.is_operator.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.39.is_operator\obj\Debug\net6.0\4.39.is_operator.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.39.is_operator\obj\Debug\net6.0\4.39.is_operator.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.39.is_operator\obj\Debug\net6.0\ref\4.39.is_operator.dll
