@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\convertTempChanllenge\obj\Debug\net6.0\convertTempChanllenge.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\convertTempChanllenge\obj\Debug\net6.0\convertTempChanllenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\convertTempChanllenge\obj\Debug\net6.0\convertTempChanllenge.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\convertTempChanllenge\obj\Debug\net6.0\convertTempChanllenge.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\convertTempChanllenge\obj\Debug\net6.0\convertTempChanllenge.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\convertTempChanllenge\bin\Debug\net6.0\convertTempChanllenge.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\convertTempChanllenge\bin\Debug\net6.0\convertTempChanllenge.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\convertTempChanllenge\bin\Debug\net6.0\convertTempChanllenge.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\convertTempChanllenge\bin\Debug\net6.0\convertTempChanllenge.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\convertTempChanllenge\bin\Debug\net6.0\convertTempChanllenge.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\convertTempChanllenge\obj\Debug\net6.0\convertTempChanllenge.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\convertTempChanllenge\obj\Debug\net6.0\refint\convertTempChanllenge.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\convertTempChanllenge\obj\Debug\net6.0\convertTempChanllenge.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\convertTempChanllenge\obj\Debug\net6.0\convertTempChanllenge.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\convertTempChanllenge\obj\Debug\net6.0\ref\convertTempChanllenge.dll

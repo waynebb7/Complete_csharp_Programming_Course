@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\interfaceTest\bin\Debug\net6.0\interfaceTest.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\interfaceTest\bin\Debug\net6.0\interfaceTest.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\interfaceTest\bin\Debug\net6.0\interfaceTest.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\interfaceTest\bin\Debug\net6.0\interfaceTest.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\interfaceTest\bin\Debug\net6.0\interfaceTest.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\interfaceTest\obj\Debug\net6.0\interfaceTest.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\interfaceTest\obj\Debug\net6.0\interfaceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\interfaceTest\obj\Debug\net6.0\interfaceTest.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\interfaceTest\obj\Debug\net6.0\interfaceTest.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\interfaceTest\obj\Debug\net6.0\interfaceTest.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\interfaceTest\obj\Debug\net6.0\interfaceTest.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\interfaceTest\obj\Debug\net6.0\refint\interfaceTest.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\interfaceTest\obj\Debug\net6.0\interfaceTest.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\interfaceTest\obj\Debug\net6.0\interfaceTest.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\interfaceTest\obj\Debug\net6.0\ref\interfaceTest.dll

@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\4.50.built-inDataTypes\bin\Debug\net6.0\4.50.built-inDataTypes.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\4.50.built-inDataTypes\bin\Debug\net6.0\4.50.built-inDataTypes.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.50.built-inDataTypes\bin\Debug\net6.0\4.50.built-inDataTypes.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.50.built-inDataTypes\bin\Debug\net6.0\4.50.built-inDataTypes.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.50.built-inDataTypes\bin\Debug\net6.0\4.50.built-inDataTypes.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.50.built-inDataTypes\obj\Debug\net6.0\4.50.built-inDataTypes.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.50.built-inDataTypes\obj\Debug\net6.0\4.50.built-inDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\4.50.built-inDataTypes\obj\Debug\net6.0\4.50.built-inDataTypes.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.50.built-inDataTypes\obj\Debug\net6.0\4.50.built-inDataTypes.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\4.50.built-inDataTypes\obj\Debug\net6.0\4.50.built-inDataTypes.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.50.built-inDataTypes\obj\Debug\net6.0\4.50.built-inDataTypes.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.50.built-inDataTypes\obj\Debug\net6.0\refint\4.50.built-inDataTypes.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.50.built-inDataTypes\obj\Debug\net6.0\4.50.built-inDataTypes.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.50.built-inDataTypes\obj\Debug\net6.0\4.50.built-inDataTypes.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.50.built-inDataTypes\obj\Debug\net6.0\ref\4.50.built-inDataTypes.dll

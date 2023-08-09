@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\numberSortTest\bin\Debug\net6.0\numberSortTest.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\numberSortTest\bin\Debug\net6.0\numberSortTest.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\numberSortTest\bin\Debug\net6.0\numberSortTest.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\numberSortTest\bin\Debug\net6.0\numberSortTest.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\numberSortTest\bin\Debug\net6.0\numberSortTest.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\numberSortTest\obj\Debug\net6.0\numberSortTest.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\numberSortTest\obj\Debug\net6.0\numberSortTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\numberSortTest\obj\Debug\net6.0\numberSortTest.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\numberSortTest\obj\Debug\net6.0\numberSortTest.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\numberSortTest\obj\Debug\net6.0\numberSortTest.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\numberSortTest\obj\Debug\net6.0\numberSortTest.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\numberSortTest\obj\Debug\net6.0\refint\numberSortTest.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\numberSortTest\obj\Debug\net6.0\numberSortTest.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\numberSortTest\obj\Debug\net6.0\numberSortTest.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\numberSortTest\obj\Debug\net6.0\ref\numberSortTest.dll

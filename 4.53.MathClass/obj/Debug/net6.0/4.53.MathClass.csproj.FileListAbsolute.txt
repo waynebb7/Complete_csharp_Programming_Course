@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\4.53.MathClass\bin\Debug\net6.0\4.53.MathClass.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\4.53.MathClass\bin\Debug\net6.0\4.53.MathClass.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.53.MathClass\bin\Debug\net6.0\4.53.MathClass.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.53.MathClass\bin\Debug\net6.0\4.53.MathClass.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.53.MathClass\bin\Debug\net6.0\4.53.MathClass.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.53.MathClass\obj\Debug\net6.0\4.53.MathClass.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.53.MathClass\obj\Debug\net6.0\4.53.MathClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\4.53.MathClass\obj\Debug\net6.0\4.53.MathClass.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.53.MathClass\obj\Debug\net6.0\4.53.MathClass.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\4.53.MathClass\obj\Debug\net6.0\4.53.MathClass.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.53.MathClass\obj\Debug\net6.0\4.53.MathClass.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.53.MathClass\obj\Debug\net6.0\refint\4.53.MathClass.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.53.MathClass\obj\Debug\net6.0\4.53.MathClass.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.53.MathClass\obj\Debug\net6.0\4.53.MathClass.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.53.MathClass\obj\Debug\net6.0\ref\4.53.MathClass.dll
