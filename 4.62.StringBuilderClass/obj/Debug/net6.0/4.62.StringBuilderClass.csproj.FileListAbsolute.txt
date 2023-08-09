@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\4.62.StringBuilderClass\bin\Debug\net6.0\4.62.StringBuilderClass.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\4.62.StringBuilderClass\bin\Debug\net6.0\4.62.StringBuilderClass.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.62.StringBuilderClass\bin\Debug\net6.0\4.62.StringBuilderClass.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.62.StringBuilderClass\bin\Debug\net6.0\4.62.StringBuilderClass.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.62.StringBuilderClass\bin\Debug\net6.0\4.62.StringBuilderClass.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.62.StringBuilderClass\obj\Debug\net6.0\4.62.StringBuilderClass.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.62.StringBuilderClass\obj\Debug\net6.0\4.62.StringBuilderClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\4.62.StringBuilderClass\obj\Debug\net6.0\4.62.StringBuilderClass.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.62.StringBuilderClass\obj\Debug\net6.0\4.62.StringBuilderClass.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\4.62.StringBuilderClass\obj\Debug\net6.0\4.62.StringBuilderClass.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.62.StringBuilderClass\obj\Debug\net6.0\4.62.StringBuilderClass.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.62.StringBuilderClass\obj\Debug\net6.0\refint\4.62.StringBuilderClass.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.62.StringBuilderClass\obj\Debug\net6.0\4.62.StringBuilderClass.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.62.StringBuilderClass\obj\Debug\net6.0\4.62.StringBuilderClass.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.62.StringBuilderClass\obj\Debug\net6.0\ref\4.62.StringBuilderClass.dll

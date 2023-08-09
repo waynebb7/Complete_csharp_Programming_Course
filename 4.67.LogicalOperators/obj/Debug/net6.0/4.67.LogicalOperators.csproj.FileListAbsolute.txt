@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\4.67.LogicalOperators\bin\Debug\net6.0\4.67.LogicalOperators.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\4.67.LogicalOperators\bin\Debug\net6.0\4.67.LogicalOperators.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.67.LogicalOperators\bin\Debug\net6.0\4.67.LogicalOperators.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.67.LogicalOperators\bin\Debug\net6.0\4.67.LogicalOperators.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.67.LogicalOperators\bin\Debug\net6.0\4.67.LogicalOperators.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.67.LogicalOperators\obj\Debug\net6.0\4.67.LogicalOperators.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.67.LogicalOperators\obj\Debug\net6.0\4.67.LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\4.67.LogicalOperators\obj\Debug\net6.0\4.67.LogicalOperators.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.67.LogicalOperators\obj\Debug\net6.0\4.67.LogicalOperators.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\4.67.LogicalOperators\obj\Debug\net6.0\4.67.LogicalOperators.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.67.LogicalOperators\obj\Debug\net6.0\4.67.LogicalOperators.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.67.LogicalOperators\obj\Debug\net6.0\refint\4.67.LogicalOperators.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.67.LogicalOperators\obj\Debug\net6.0\4.67.LogicalOperators.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.67.LogicalOperators\obj\Debug\net6.0\4.67.LogicalOperators.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.67.LogicalOperators\obj\Debug\net6.0\ref\4.67.LogicalOperators.dll

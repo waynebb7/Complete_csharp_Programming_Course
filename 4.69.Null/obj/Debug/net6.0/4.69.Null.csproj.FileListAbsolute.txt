@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\4.69.Null\obj\Debug\net6.0\4.69.Null.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.69.Null\obj\Debug\net6.0\4.69.Null.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\4.69.Null\obj\Debug\net6.0\4.69.Null.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.69.Null\obj\Debug\net6.0\4.69.Null.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\4.69.Null\obj\Debug\net6.0\4.69.Null.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.69.Null\bin\Debug\net6.0\4.69.Null.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\4.69.Null\bin\Debug\net6.0\4.69.Null.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.69.Null\bin\Debug\net6.0\4.69.Null.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.69.Null\bin\Debug\net6.0\4.69.Null.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.69.Null\bin\Debug\net6.0\4.69.Null.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.69.Null\obj\Debug\net6.0\4.69.Null.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.69.Null\obj\Debug\net6.0\refint\4.69.Null.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.69.Null\obj\Debug\net6.0\4.69.Null.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.69.Null\obj\Debug\net6.0\4.69.Null.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.69.Null\obj\Debug\net6.0\ref\4.69.Null.dll

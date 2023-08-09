@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\4.55.Strings\bin\Debug\net6.0\4.55.Strings.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\4.55.Strings\bin\Debug\net6.0\4.55.Strings.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.55.Strings\bin\Debug\net6.0\4.55.Strings.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.55.Strings\bin\Debug\net6.0\4.55.Strings.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.55.Strings\bin\Debug\net6.0\4.55.Strings.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.55.Strings\obj\Debug\net6.0\4.55.Strings.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.55.Strings\obj\Debug\net6.0\4.55.Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\4.55.Strings\obj\Debug\net6.0\4.55.Strings.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.55.Strings\obj\Debug\net6.0\4.55.Strings.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\4.55.Strings\obj\Debug\net6.0\4.55.Strings.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.55.Strings\obj\Debug\net6.0\4.55.Strings.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.55.Strings\obj\Debug\net6.0\refint\4.55.Strings.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.55.Strings\obj\Debug\net6.0\4.55.Strings.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.55.Strings\obj\Debug\net6.0\4.55.Strings.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.55.Strings\obj\Debug\net6.0\ref\4.55.Strings.dll

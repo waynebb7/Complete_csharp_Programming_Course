@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\4.68.BooleanFlagTechnique\obj\Debug\net6.0\4.68.BooleanFlagTechnique.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.68.BooleanFlagTechnique\obj\Debug\net6.0\4.68.BooleanFlagTechnique.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\4.68.BooleanFlagTechnique\obj\Debug\net6.0\4.68.BooleanFlagTechnique.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.68.BooleanFlagTechnique\obj\Debug\net6.0\4.68.BooleanFlagTechnique.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\4.68.BooleanFlagTechnique\obj\Debug\net6.0\4.68.BooleanFlagTechnique.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.68.BooleanFlagTechnique\bin\Debug\net6.0\4.68.BooleanFlagTechnique.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\4.68.BooleanFlagTechnique\bin\Debug\net6.0\4.68.BooleanFlagTechnique.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.68.BooleanFlagTechnique\bin\Debug\net6.0\4.68.BooleanFlagTechnique.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.68.BooleanFlagTechnique\bin\Debug\net6.0\4.68.BooleanFlagTechnique.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.68.BooleanFlagTechnique\bin\Debug\net6.0\4.68.BooleanFlagTechnique.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.68.BooleanFlagTechnique\obj\Debug\net6.0\4.68.BooleanFlagTechnique.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.68.BooleanFlagTechnique\obj\Debug\net6.0\refint\4.68.BooleanFlagTechnique.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.68.BooleanFlagTechnique\obj\Debug\net6.0\4.68.BooleanFlagTechnique.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.68.BooleanFlagTechnique\obj\Debug\net6.0\4.68.BooleanFlagTechnique.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.68.BooleanFlagTechnique\obj\Debug\net6.0\ref\4.68.BooleanFlagTechnique.dll

@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\4.71.AnonymousandDynamicTypes\bin\Debug\net6.0\4.71.AnonymousandDynamicTypes.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\4.71.AnonymousandDynamicTypes\bin\Debug\net6.0\4.71.AnonymousandDynamicTypes.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.71.AnonymousandDynamicTypes\bin\Debug\net6.0\4.71.AnonymousandDynamicTypes.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.71.AnonymousandDynamicTypes\bin\Debug\net6.0\4.71.AnonymousandDynamicTypes.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.71.AnonymousandDynamicTypes\bin\Debug\net6.0\4.71.AnonymousandDynamicTypes.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.71.AnonymousandDynamicTypes\obj\Debug\net6.0\4.71.AnonymousandDynamicTypes.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.71.AnonymousandDynamicTypes\obj\Debug\net6.0\4.71.AnonymousandDynamicTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\4.71.AnonymousandDynamicTypes\obj\Debug\net6.0\4.71.AnonymousandDynamicTypes.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.71.AnonymousandDynamicTypes\obj\Debug\net6.0\4.71.AnonymousandDynamicTypes.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\4.71.AnonymousandDynamicTypes\obj\Debug\net6.0\4.71.AnonymousandDynamicTypes.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.71.AnonymousandDynamicTypes\obj\Debug\net6.0\4.71.AnonymousandDynamicTypes.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.71.AnonymousandDynamicTypes\obj\Debug\net6.0\refint\4.71.AnonymousandDynamicTypes.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.71.AnonymousandDynamicTypes\obj\Debug\net6.0\4.71.AnonymousandDynamicTypes.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.71.AnonymousandDynamicTypes\obj\Debug\net6.0\4.71.AnonymousandDynamicTypes.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.71.AnonymousandDynamicTypes\obj\Debug\net6.0\ref\4.71.AnonymousandDynamicTypes.dll
