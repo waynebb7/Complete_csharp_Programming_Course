@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\7.85.SwitchStatements\obj\Debug\net6.0\7.85.SwitchStatements.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\7.85.SwitchStatements\obj\Debug\net6.0\7.85.SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\7.85.SwitchStatements\obj\Debug\net6.0\7.85.SwitchStatements.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\7.85.SwitchStatements\obj\Debug\net6.0\7.85.SwitchStatements.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\7.85.SwitchStatements\obj\Debug\net6.0\7.85.SwitchStatements.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\7.85.SwitchStatements\bin\Debug\net6.0\7.85.SwitchStatements.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\7.85.SwitchStatements\bin\Debug\net6.0\7.85.SwitchStatements.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\7.85.SwitchStatements\bin\Debug\net6.0\7.85.SwitchStatements.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\7.85.SwitchStatements\bin\Debug\net6.0\7.85.SwitchStatements.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\7.85.SwitchStatements\bin\Debug\net6.0\7.85.SwitchStatements.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\7.85.SwitchStatements\obj\Debug\net6.0\7.85.SwitchStatements.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\7.85.SwitchStatements\obj\Debug\net6.0\refint\7.85.SwitchStatements.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\7.85.SwitchStatements\obj\Debug\net6.0\7.85.SwitchStatements.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\7.85.SwitchStatements\obj\Debug\net6.0\7.85.SwitchStatements.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\7.85.SwitchStatements\obj\Debug\net6.0\ref\7.85.SwitchStatements.dll

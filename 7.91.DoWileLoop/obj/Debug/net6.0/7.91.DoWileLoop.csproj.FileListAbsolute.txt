@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\7.91.DoWileLoop\obj\Debug\net6.0\7.91.DoWileLoop.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\7.91.DoWileLoop\obj\Debug\net6.0\7.91.DoWileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\7.91.DoWileLoop\obj\Debug\net6.0\7.91.DoWileLoop.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\7.91.DoWileLoop\obj\Debug\net6.0\7.91.DoWileLoop.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\7.91.DoWileLoop\obj\Debug\net6.0\7.91.DoWileLoop.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\7.91.DoWileLoop\bin\Debug\net6.0\7.91.DoWileLoop.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\7.91.DoWileLoop\bin\Debug\net6.0\7.91.DoWileLoop.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\7.91.DoWileLoop\bin\Debug\net6.0\7.91.DoWileLoop.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\7.91.DoWileLoop\bin\Debug\net6.0\7.91.DoWileLoop.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\7.91.DoWileLoop\bin\Debug\net6.0\7.91.DoWileLoop.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\7.91.DoWileLoop\obj\Debug\net6.0\7.91.DoWileLoop.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\7.91.DoWileLoop\obj\Debug\net6.0\refint\7.91.DoWileLoop.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\7.91.DoWileLoop\obj\Debug\net6.0\7.91.DoWileLoop.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\7.91.DoWileLoop\obj\Debug\net6.0\7.91.DoWileLoop.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\7.91.DoWileLoop\obj\Debug\net6.0\ref\7.91.DoWileLoop.dll

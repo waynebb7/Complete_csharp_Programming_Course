@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\7.88.ForeachLoop\bin\Debug\net6.0\7.88.ForeachLoop.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\7.88.ForeachLoop\bin\Debug\net6.0\7.88.ForeachLoop.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\7.88.ForeachLoop\bin\Debug\net6.0\7.88.ForeachLoop.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\7.88.ForeachLoop\bin\Debug\net6.0\7.88.ForeachLoop.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\7.88.ForeachLoop\bin\Debug\net6.0\7.88.ForeachLoop.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\7.88.ForeachLoop\obj\Debug\net6.0\7.88.ForeachLoop.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\7.88.ForeachLoop\obj\Debug\net6.0\7.88.ForeachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\7.88.ForeachLoop\obj\Debug\net6.0\7.88.ForeachLoop.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\7.88.ForeachLoop\obj\Debug\net6.0\7.88.ForeachLoop.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\7.88.ForeachLoop\obj\Debug\net6.0\7.88.ForeachLoop.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\7.88.ForeachLoop\obj\Debug\net6.0\7.88.ForeachLoop.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\7.88.ForeachLoop\obj\Debug\net6.0\refint\7.88.ForeachLoop.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\7.88.ForeachLoop\obj\Debug\net6.0\7.88.ForeachLoop.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\7.88.ForeachLoop\obj\Debug\net6.0\7.88.ForeachLoop.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\7.88.ForeachLoop\obj\Debug\net6.0\ref\7.88.ForeachLoop.dll

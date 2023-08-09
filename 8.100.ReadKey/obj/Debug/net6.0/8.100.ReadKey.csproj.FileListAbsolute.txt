@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\8.100.ReadKey\bin\Debug\net6.0\8.100.ReadKey.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\8.100.ReadKey\bin\Debug\net6.0\8.100.ReadKey.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\8.100.ReadKey\bin\Debug\net6.0\8.100.ReadKey.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\8.100.ReadKey\bin\Debug\net6.0\8.100.ReadKey.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.100.ReadKey\bin\Debug\net6.0\8.100.ReadKey.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\8.100.ReadKey\obj\Debug\net6.0\8.100.ReadKey.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.100.ReadKey\obj\Debug\net6.0\8.100.ReadKey.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\8.100.ReadKey\obj\Debug\net6.0\8.100.ReadKey.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.100.ReadKey\obj\Debug\net6.0\8.100.ReadKey.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\8.100.ReadKey\obj\Debug\net6.0\8.100.ReadKey.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.100.ReadKey\obj\Debug\net6.0\8.100.ReadKey.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.100.ReadKey\obj\Debug\net6.0\refint\8.100.ReadKey.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.100.ReadKey\obj\Debug\net6.0\8.100.ReadKey.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\8.100.ReadKey\obj\Debug\net6.0\8.100.ReadKey.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.100.ReadKey\obj\Debug\net6.0\ref\8.100.ReadKey.dll

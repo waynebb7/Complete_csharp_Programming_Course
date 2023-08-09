@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\7.86.NestedForLoops\obj\Debug\net6.0\7.86.NestedForLoops.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\7.86.NestedForLoops\obj\Debug\net6.0\7.86.NestedForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\7.86.NestedForLoops\obj\Debug\net6.0\7.86.NestedForLoops.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\7.86.NestedForLoops\obj\Debug\net6.0\7.86.NestedForLoops.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\7.86.NestedForLoops\obj\Debug\net6.0\7.86.NestedForLoops.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\7.86.NestedForLoops\bin\Debug\net6.0\7.86.NestedForLoops.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\7.86.NestedForLoops\bin\Debug\net6.0\7.86.NestedForLoops.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\7.86.NestedForLoops\bin\Debug\net6.0\7.86.NestedForLoops.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\7.86.NestedForLoops\bin\Debug\net6.0\7.86.NestedForLoops.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\7.86.NestedForLoops\bin\Debug\net6.0\7.86.NestedForLoops.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\7.86.NestedForLoops\obj\Debug\net6.0\7.86.NestedForLoops.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\7.86.NestedForLoops\obj\Debug\net6.0\refint\7.86.NestedForLoops.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\7.86.NestedForLoops\obj\Debug\net6.0\7.86.NestedForLoops.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\7.86.NestedForLoops\obj\Debug\net6.0\7.86.NestedForLoops.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\7.86.NestedForLoops\obj\Debug\net6.0\ref\7.86.NestedForLoops.dll

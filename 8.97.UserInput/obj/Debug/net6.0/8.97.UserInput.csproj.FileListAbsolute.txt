@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\8.97.UserInput\bin\Debug\net6.0\8.97.UserInput.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\8.97.UserInput\bin\Debug\net6.0\8.97.UserInput.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\8.97.UserInput\bin\Debug\net6.0\8.97.UserInput.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\8.97.UserInput\bin\Debug\net6.0\8.97.UserInput.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.97.UserInput\bin\Debug\net6.0\8.97.UserInput.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\8.97.UserInput\obj\Debug\net6.0\8.97.UserInput.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.97.UserInput\obj\Debug\net6.0\8.97.UserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\8.97.UserInput\obj\Debug\net6.0\8.97.UserInput.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.97.UserInput\obj\Debug\net6.0\8.97.UserInput.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\8.97.UserInput\obj\Debug\net6.0\8.97.UserInput.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.97.UserInput\obj\Debug\net6.0\8.97.UserInput.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.97.UserInput\obj\Debug\net6.0\refint\8.97.UserInput.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.97.UserInput\obj\Debug\net6.0\8.97.UserInput.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\8.97.UserInput\obj\Debug\net6.0\8.97.UserInput.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.97.UserInput\obj\Debug\net6.0\ref\8.97.UserInput.dll

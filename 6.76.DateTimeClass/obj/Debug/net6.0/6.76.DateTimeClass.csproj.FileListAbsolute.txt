@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\6.76.DateTimeClass\bin\Debug\net6.0\6.76.DateTimeClass.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\6.76.DateTimeClass\bin\Debug\net6.0\6.76.DateTimeClass.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\6.76.DateTimeClass\bin\Debug\net6.0\6.76.DateTimeClass.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\6.76.DateTimeClass\bin\Debug\net6.0\6.76.DateTimeClass.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\6.76.DateTimeClass\bin\Debug\net6.0\6.76.DateTimeClass.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\6.76.DateTimeClass\obj\Debug\net6.0\6.76.DateTimeClass.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\6.76.DateTimeClass\obj\Debug\net6.0\6.76.DateTimeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\6.76.DateTimeClass\obj\Debug\net6.0\6.76.DateTimeClass.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\6.76.DateTimeClass\obj\Debug\net6.0\6.76.DateTimeClass.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\6.76.DateTimeClass\obj\Debug\net6.0\6.76.DateTimeClass.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\6.76.DateTimeClass\obj\Debug\net6.0\6.76.DateTimeClass.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\6.76.DateTimeClass\obj\Debug\net6.0\refint\6.76.DateTimeClass.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\6.76.DateTimeClass\obj\Debug\net6.0\6.76.DateTimeClass.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\6.76.DateTimeClass\obj\Debug\net6.0\6.76.DateTimeClass.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\6.76.DateTimeClass\obj\Debug\net6.0\ref\6.76.DateTimeClass.dll

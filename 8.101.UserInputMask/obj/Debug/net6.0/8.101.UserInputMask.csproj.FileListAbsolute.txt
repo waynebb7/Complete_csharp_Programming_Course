@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\8.101.UserInputMask\bin\Debug\net6.0\8.101.UserInputMask.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\8.101.UserInputMask\bin\Debug\net6.0\8.101.UserInputMask.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\8.101.UserInputMask\bin\Debug\net6.0\8.101.UserInputMask.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\8.101.UserInputMask\bin\Debug\net6.0\8.101.UserInputMask.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.101.UserInputMask\bin\Debug\net6.0\8.101.UserInputMask.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\8.101.UserInputMask\obj\Debug\net6.0\8.101.UserInputMask.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.101.UserInputMask\obj\Debug\net6.0\8.101.UserInputMask.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\8.101.UserInputMask\obj\Debug\net6.0\8.101.UserInputMask.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.101.UserInputMask\obj\Debug\net6.0\8.101.UserInputMask.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\8.101.UserInputMask\obj\Debug\net6.0\8.101.UserInputMask.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.101.UserInputMask\obj\Debug\net6.0\8.101.UserInputMask.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.101.UserInputMask\obj\Debug\net6.0\refint\8.101.UserInputMask.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.101.UserInputMask\obj\Debug\net6.0\8.101.UserInputMask.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\8.101.UserInputMask\obj\Debug\net6.0\8.101.UserInputMask.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.101.UserInputMask\obj\Debug\net6.0\ref\8.101.UserInputMask.dll

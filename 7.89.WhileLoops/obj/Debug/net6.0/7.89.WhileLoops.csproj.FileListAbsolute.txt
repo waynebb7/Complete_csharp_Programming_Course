@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\7.89.WhileLoops\bin\Debug\net6.0\7.89.WhileLoops.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\7.89.WhileLoops\bin\Debug\net6.0\7.89.WhileLoops.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\7.89.WhileLoops\bin\Debug\net6.0\7.89.WhileLoops.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\7.89.WhileLoops\bin\Debug\net6.0\7.89.WhileLoops.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\7.89.WhileLoops\bin\Debug\net6.0\7.89.WhileLoops.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\7.89.WhileLoops\obj\Debug\net6.0\7.89.WhileLoops.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\7.89.WhileLoops\obj\Debug\net6.0\7.89.WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\7.89.WhileLoops\obj\Debug\net6.0\7.89.WhileLoops.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\7.89.WhileLoops\obj\Debug\net6.0\7.89.WhileLoops.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\7.89.WhileLoops\obj\Debug\net6.0\7.89.WhileLoops.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\7.89.WhileLoops\obj\Debug\net6.0\7.89.WhileLoops.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\7.89.WhileLoops\obj\Debug\net6.0\refint\7.89.WhileLoops.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\7.89.WhileLoops\obj\Debug\net6.0\7.89.WhileLoops.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\7.89.WhileLoops\obj\Debug\net6.0\7.89.WhileLoops.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\7.89.WhileLoops\obj\Debug\net6.0\ref\7.89.WhileLoops.dll

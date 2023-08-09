@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\8.99.Read\bin\Debug\net6.0\8.99.Read.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\8.99.Read\bin\Debug\net6.0\8.99.Read.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\8.99.Read\bin\Debug\net6.0\8.99.Read.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\8.99.Read\bin\Debug\net6.0\8.99.Read.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.99.Read\bin\Debug\net6.0\8.99.Read.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\8.99.Read\obj\Debug\net6.0\8.99.Read.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.99.Read\obj\Debug\net6.0\8.99.Read.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\8.99.Read\obj\Debug\net6.0\8.99.Read.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.99.Read\obj\Debug\net6.0\8.99.Read.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\8.99.Read\obj\Debug\net6.0\8.99.Read.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.99.Read\obj\Debug\net6.0\8.99.Read.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.99.Read\obj\Debug\net6.0\refint\8.99.Read.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.99.Read\obj\Debug\net6.0\8.99.Read.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\8.99.Read\obj\Debug\net6.0\8.99.Read.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.99.Read\obj\Debug\net6.0\ref\8.99.Read.dll

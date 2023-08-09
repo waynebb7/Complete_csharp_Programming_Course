@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\4.84.ControlFlow\bin\Debug\net6.0\4.84.ControlFlow.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\4.84.ControlFlow\bin\Debug\net6.0\4.84.ControlFlow.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.84.ControlFlow\bin\Debug\net6.0\4.84.ControlFlow.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\4.84.ControlFlow\bin\Debug\net6.0\4.84.ControlFlow.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.84.ControlFlow\bin\Debug\net6.0\4.84.ControlFlow.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.84.ControlFlow\obj\Debug\net6.0\4.84.ControlFlow.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.84.ControlFlow\obj\Debug\net6.0\4.84.ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\4.84.ControlFlow\obj\Debug\net6.0\4.84.ControlFlow.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.84.ControlFlow\obj\Debug\net6.0\4.84.ControlFlow.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\4.84.ControlFlow\obj\Debug\net6.0\4.84.ControlFlow.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.84.ControlFlow\obj\Debug\net6.0\4.84.ControlFlow.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.84.ControlFlow\obj\Debug\net6.0\refint\4.84.ControlFlow.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\4.84.ControlFlow\obj\Debug\net6.0\4.84.ControlFlow.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\4.84.ControlFlow\obj\Debug\net6.0\4.84.ControlFlow.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\4.84.ControlFlow\obj\Debug\net6.0\ref\4.84.ControlFlow.dll
