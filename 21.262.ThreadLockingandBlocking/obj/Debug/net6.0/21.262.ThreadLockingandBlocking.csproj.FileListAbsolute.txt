@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.ThreadLockingandBlocking\bin\Debug\net6.0\21.262.ThreadLockingandBlocking.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.ThreadLockingandBlocking\bin\Debug\net6.0\21.262.ThreadLockingandBlocking.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.ThreadLockingandBlocking\bin\Debug\net6.0\21.262.ThreadLockingandBlocking.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.ThreadLockingandBlocking\bin\Debug\net6.0\21.262.ThreadLockingandBlocking.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.ThreadLockingandBlocking\bin\Debug\net6.0\21.262.ThreadLockingandBlocking.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.ThreadLockingandBlocking\obj\Debug\net6.0\21.262.ThreadLockingandBlocking.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.ThreadLockingandBlocking\obj\Debug\net6.0\21.262.ThreadLockingandBlocking.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.ThreadLockingandBlocking\obj\Debug\net6.0\21.262.ThreadLockingandBlocking.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.ThreadLockingandBlocking\obj\Debug\net6.0\21.262.ThreadLockingandBlocking.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.ThreadLockingandBlocking\obj\Debug\net6.0\21.262.ThreadLockingandBlocking.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.ThreadLockingandBlocking\obj\Debug\net6.0\21.262.ThreadLockingandBlocking.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.ThreadLockingandBlocking\obj\Debug\net6.0\refint\21.262.ThreadLockingandBlocking.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.ThreadLockingandBlocking\obj\Debug\net6.0\21.262.ThreadLockingandBlocking.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.ThreadLockingandBlocking\obj\Debug\net6.0\21.262.ThreadLockingandBlocking.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.ThreadLockingandBlocking\obj\Debug\net6.0\ref\21.262.ThreadLockingandBlocking.dll

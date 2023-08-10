@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.Locking\bin\Debug\net6.0\21.262.Locking.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.Locking\bin\Debug\net6.0\21.262.Locking.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.Locking\bin\Debug\net6.0\21.262.Locking.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.Locking\bin\Debug\net6.0\21.262.Locking.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.Locking\bin\Debug\net6.0\21.262.Locking.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.Locking\obj\Debug\net6.0\21.262.Locking.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.Locking\obj\Debug\net6.0\21.262.Locking.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.Locking\obj\Debug\net6.0\21.262.Locking.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.Locking\obj\Debug\net6.0\21.262.Locking.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.Locking\obj\Debug\net6.0\21.262.Locking.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.Locking\obj\Debug\net6.0\21.262.Locking.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.Locking\obj\Debug\net6.0\refint\21.262.Locking.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.Locking\obj\Debug\net6.0\21.262.Locking.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.Locking\obj\Debug\net6.0\21.262.Locking.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\21.262.Locking\obj\Debug\net6.0\ref\21.262.Locking.dll

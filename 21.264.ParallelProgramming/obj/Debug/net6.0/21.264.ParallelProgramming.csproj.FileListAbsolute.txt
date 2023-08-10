@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\21.264.ParallelProgramming\obj\Debug\net6.0\21.264.ParallelProgramming.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\21.264.ParallelProgramming\obj\Debug\net6.0\21.264.ParallelProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\21.264.ParallelProgramming\obj\Debug\net6.0\21.264.ParallelProgramming.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\21.264.ParallelProgramming\obj\Debug\net6.0\21.264.ParallelProgramming.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\21.264.ParallelProgramming\obj\Debug\net6.0\21.264.ParallelProgramming.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\21.264.ParallelProgramming\bin\Debug\net6.0\21.264.ParallelProgramming.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\21.264.ParallelProgramming\bin\Debug\net6.0\21.264.ParallelProgramming.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\21.264.ParallelProgramming\bin\Debug\net6.0\21.264.ParallelProgramming.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\21.264.ParallelProgramming\bin\Debug\net6.0\21.264.ParallelProgramming.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\21.264.ParallelProgramming\bin\Debug\net6.0\21.264.ParallelProgramming.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\21.264.ParallelProgramming\obj\Debug\net6.0\21.264.ParallelProgramming.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\21.264.ParallelProgramming\obj\Debug\net6.0\refint\21.264.ParallelProgramming.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\21.264.ParallelProgramming\obj\Debug\net6.0\21.264.ParallelProgramming.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\21.264.ParallelProgramming\obj\Debug\net6.0\21.264.ParallelProgramming.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\21.264.ParallelProgramming\obj\Debug\net6.0\ref\21.264.ParallelProgramming.dll

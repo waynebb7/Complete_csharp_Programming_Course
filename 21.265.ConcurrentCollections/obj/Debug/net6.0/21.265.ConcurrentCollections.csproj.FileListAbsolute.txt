@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\21.265.ConcurrentCollections\obj\Debug\net6.0\21.265.ConcurrentCollections.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\21.265.ConcurrentCollections\obj\Debug\net6.0\21.265.ConcurrentCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\21.265.ConcurrentCollections\obj\Debug\net6.0\21.265.ConcurrentCollections.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\21.265.ConcurrentCollections\obj\Debug\net6.0\21.265.ConcurrentCollections.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\21.265.ConcurrentCollections\obj\Debug\net6.0\21.265.ConcurrentCollections.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\21.265.ConcurrentCollections\bin\Debug\net6.0\21.265.ConcurrentCollections.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\21.265.ConcurrentCollections\bin\Debug\net6.0\21.265.ConcurrentCollections.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\21.265.ConcurrentCollections\bin\Debug\net6.0\21.265.ConcurrentCollections.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\21.265.ConcurrentCollections\bin\Debug\net6.0\21.265.ConcurrentCollections.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\21.265.ConcurrentCollections\bin\Debug\net6.0\21.265.ConcurrentCollections.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\21.265.ConcurrentCollections\obj\Debug\net6.0\21.265.ConcurrentCollections.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\21.265.ConcurrentCollections\obj\Debug\net6.0\refint\21.265.ConcurrentCollections.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\21.265.ConcurrentCollections\obj\Debug\net6.0\21.265.ConcurrentCollections.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\21.265.ConcurrentCollections\obj\Debug\net6.0\21.265.ConcurrentCollections.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\21.265.ConcurrentCollections\obj\Debug\net6.0\ref\21.265.ConcurrentCollections.dll
