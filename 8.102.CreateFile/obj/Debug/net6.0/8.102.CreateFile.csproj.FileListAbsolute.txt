@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.CreateFile\bin\Debug\net6.0\8.102.CreateFile.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.CreateFile\bin\Debug\net6.0\8.102.CreateFile.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.CreateFile\bin\Debug\net6.0\8.102.CreateFile.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.CreateFile\bin\Debug\net6.0\8.102.CreateFile.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.CreateFile\bin\Debug\net6.0\8.102.CreateFile.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.CreateFile\obj\Debug\net6.0\8.102.CreateFile.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.CreateFile\obj\Debug\net6.0\8.102.CreateFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.CreateFile\obj\Debug\net6.0\8.102.CreateFile.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.CreateFile\obj\Debug\net6.0\8.102.CreateFile.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.CreateFile\obj\Debug\net6.0\8.102.CreateFile.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.CreateFile\obj\Debug\net6.0\8.102.CreateFile.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.CreateFile\obj\Debug\net6.0\refint\8.102.CreateFile.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.CreateFile\obj\Debug\net6.0\8.102.CreateFile.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.CreateFile\obj\Debug\net6.0\8.102.CreateFile.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.CreateFile\obj\Debug\net6.0\ref\8.102.CreateFile.dll

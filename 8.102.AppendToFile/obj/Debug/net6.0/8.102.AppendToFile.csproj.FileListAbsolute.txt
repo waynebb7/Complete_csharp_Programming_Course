@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.AppendToFile\bin\Debug\net6.0\8.102.AppendToFile.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.AppendToFile\bin\Debug\net6.0\8.102.AppendToFile.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.AppendToFile\bin\Debug\net6.0\8.102.AppendToFile.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.AppendToFile\bin\Debug\net6.0\8.102.AppendToFile.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.AppendToFile\bin\Debug\net6.0\8.102.AppendToFile.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.AppendToFile\obj\Debug\net6.0\8.102.AppendToFile.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.AppendToFile\obj\Debug\net6.0\8.102.AppendToFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.AppendToFile\obj\Debug\net6.0\8.102.AppendToFile.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.AppendToFile\obj\Debug\net6.0\8.102.AppendToFile.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.AppendToFile\obj\Debug\net6.0\8.102.AppendToFile.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.AppendToFile\obj\Debug\net6.0\8.102.AppendToFile.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.AppendToFile\obj\Debug\net6.0\refint\8.102.AppendToFile.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.AppendToFile\obj\Debug\net6.0\8.102.AppendToFile.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.AppendToFile\obj\Debug\net6.0\8.102.AppendToFile.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.AppendToFile\obj\Debug\net6.0\ref\8.102.AppendToFile.dll

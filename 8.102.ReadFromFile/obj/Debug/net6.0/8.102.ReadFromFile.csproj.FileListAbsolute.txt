@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.ReadFromFile\bin\Debug\net6.0\8.102.ReadFromFile.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.ReadFromFile\bin\Debug\net6.0\8.102.ReadFromFile.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.ReadFromFile\bin\Debug\net6.0\8.102.ReadFromFile.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.ReadFromFile\bin\Debug\net6.0\8.102.ReadFromFile.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.ReadFromFile\bin\Debug\net6.0\8.102.ReadFromFile.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.ReadFromFile\obj\Debug\net6.0\8.102.ReadFromFile.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.ReadFromFile\obj\Debug\net6.0\8.102.ReadFromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.ReadFromFile\obj\Debug\net6.0\8.102.ReadFromFile.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.ReadFromFile\obj\Debug\net6.0\8.102.ReadFromFile.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.ReadFromFile\obj\Debug\net6.0\8.102.ReadFromFile.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.ReadFromFile\obj\Debug\net6.0\8.102.ReadFromFile.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.ReadFromFile\obj\Debug\net6.0\refint\8.102.ReadFromFile.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.ReadFromFile\obj\Debug\net6.0\8.102.ReadFromFile.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.ReadFromFile\obj\Debug\net6.0\8.102.ReadFromFile.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.102.ReadFromFile\obj\Debug\net6.0\ref\8.102.ReadFromFile.dll
