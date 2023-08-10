@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\18.230.Generics\bin\Debug\net6.0\18.230.Generics.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\18.230.Generics\bin\Debug\net6.0\18.230.Generics.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\18.230.Generics\bin\Debug\net6.0\18.230.Generics.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\18.230.Generics\bin\Debug\net6.0\18.230.Generics.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\18.230.Generics\bin\Debug\net6.0\18.230.Generics.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\18.230.Generics\obj\Debug\net6.0\18.230.Generics.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\18.230.Generics\obj\Debug\net6.0\18.230.Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\18.230.Generics\obj\Debug\net6.0\18.230.Generics.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\18.230.Generics\obj\Debug\net6.0\18.230.Generics.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\18.230.Generics\obj\Debug\net6.0\18.230.Generics.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\18.230.Generics\obj\Debug\net6.0\18.230.Generics.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\18.230.Generics\obj\Debug\net6.0\refint\18.230.Generics.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\18.230.Generics\obj\Debug\net6.0\18.230.Generics.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\18.230.Generics\obj\Debug\net6.0\18.230.Generics.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\18.230.Generics\obj\Debug\net6.0\ref\18.230.Generics.dll
