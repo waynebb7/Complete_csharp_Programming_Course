@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\25.325.Reflection\obj\Debug\net6.0\25.325.Reflection.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\25.325.Reflection\obj\Debug\net6.0\25.325.Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\25.325.Reflection\obj\Debug\net6.0\25.325.Reflection.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\25.325.Reflection\obj\Debug\net6.0\25.325.Reflection.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\25.325.Reflection\obj\Debug\net6.0\25.325.Reflection.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\25.325.Reflection\bin\Debug\net6.0\25.325.Reflection.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\25.325.Reflection\bin\Debug\net6.0\25.325.Reflection.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\25.325.Reflection\bin\Debug\net6.0\25.325.Reflection.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\25.325.Reflection\bin\Debug\net6.0\25.325.Reflection.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\25.325.Reflection\bin\Debug\net6.0\25.325.Reflection.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\25.325.Reflection\obj\Debug\net6.0\25.325.Reflection.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\25.325.Reflection\obj\Debug\net6.0\refint\25.325.Reflection.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\25.325.Reflection\obj\Debug\net6.0\25.325.Reflection.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\25.325.Reflection\obj\Debug\net6.0\25.325.Reflection.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\25.325.Reflection\obj\Debug\net6.0\ref\25.325.Reflection.dll
