@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\20.245.BitwiseComplimentOperator\bin\Debug\net6.0\20.245.BitwiseComplimentOperator.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\20.245.BitwiseComplimentOperator\bin\Debug\net6.0\20.245.BitwiseComplimentOperator.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\20.245.BitwiseComplimentOperator\bin\Debug\net6.0\20.245.BitwiseComplimentOperator.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\20.245.BitwiseComplimentOperator\bin\Debug\net6.0\20.245.BitwiseComplimentOperator.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\20.245.BitwiseComplimentOperator\bin\Debug\net6.0\20.245.BitwiseComplimentOperator.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\20.245.BitwiseComplimentOperator\obj\Debug\net6.0\20.245.BitwiseComplimentOperator.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\20.245.BitwiseComplimentOperator\obj\Debug\net6.0\20.245.BitwiseComplimentOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\20.245.BitwiseComplimentOperator\obj\Debug\net6.0\20.245.BitwiseComplimentOperator.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\20.245.BitwiseComplimentOperator\obj\Debug\net6.0\20.245.BitwiseComplimentOperator.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\20.245.BitwiseComplimentOperator\obj\Debug\net6.0\20.245.BitwiseComplimentOperator.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\20.245.BitwiseComplimentOperator\obj\Debug\net6.0\20.245.BitwiseComplimentOperator.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\20.245.BitwiseComplimentOperator\obj\Debug\net6.0\refint\20.245.BitwiseComplimentOperator.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\20.245.BitwiseComplimentOperator\obj\Debug\net6.0\20.245.BitwiseComplimentOperator.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\20.245.BitwiseComplimentOperator\obj\Debug\net6.0\20.245.BitwiseComplimentOperator.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\20.245.BitwiseComplimentOperator\obj\Debug\net6.0\ref\20.245.BitwiseComplimentOperator.dll
