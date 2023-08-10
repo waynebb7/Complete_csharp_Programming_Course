@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\8.104.TicTacToe\bin\Debug\net6.0\8.104.TicTacToe.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\8.104.TicTacToe\bin\Debug\net6.0\8.104.TicTacToe.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\8.104.TicTacToe\bin\Debug\net6.0\8.104.TicTacToe.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\8.104.TicTacToe\bin\Debug\net6.0\8.104.TicTacToe.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.104.TicTacToe\bin\Debug\net6.0\8.104.TicTacToe.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\8.104.TicTacToe\obj\Debug\net6.0\8.104.TicTacToe.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.104.TicTacToe\obj\Debug\net6.0\8.104.TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\8.104.TicTacToe\obj\Debug\net6.0\8.104.TicTacToe.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.104.TicTacToe\obj\Debug\net6.0\8.104.TicTacToe.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\8.104.TicTacToe\obj\Debug\net6.0\8.104.TicTacToe.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.104.TicTacToe\obj\Debug\net6.0\8.104.TicTacToe.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.104.TicTacToe\obj\Debug\net6.0\refint\8.104.TicTacToe.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\8.104.TicTacToe\obj\Debug\net6.0\8.104.TicTacToe.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\8.104.TicTacToe\obj\Debug\net6.0\8.104.TicTacToe.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\8.104.TicTacToe\obj\Debug\net6.0\ref\8.104.TicTacToe.dll
