@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\9.109.Properties\bin\Debug\net6.0\9.109.Properties.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\9.109.Properties\bin\Debug\net6.0\9.109.Properties.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\9.109.Properties\bin\Debug\net6.0\9.109.Properties.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\9.109.Properties\bin\Debug\net6.0\9.109.Properties.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\9.109.Properties\bin\Debug\net6.0\9.109.Properties.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\9.109.Properties\obj\Debug\net6.0\9.109.Properties.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.109.Properties\obj\Debug\net6.0\9.109.Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\9.109.Properties\obj\Debug\net6.0\9.109.Properties.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.109.Properties\obj\Debug\net6.0\9.109.Properties.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\9.109.Properties\obj\Debug\net6.0\9.109.Properties.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.109.Properties\obj\Debug\net6.0\9.109.Properties.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\9.109.Properties\obj\Debug\net6.0\refint\9.109.Properties.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\9.109.Properties\obj\Debug\net6.0\9.109.Properties.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\9.109.Properties\obj\Debug\net6.0\9.109.Properties.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.109.Properties\obj\Debug\net6.0\ref\9.109.Properties.dll
