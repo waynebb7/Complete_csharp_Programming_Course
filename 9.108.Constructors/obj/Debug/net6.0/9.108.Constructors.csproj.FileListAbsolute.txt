@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\9.108.Constructors\bin\Debug\net6.0\9.108.Constructors.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\9.108.Constructors\bin\Debug\net6.0\9.108.Constructors.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\9.108.Constructors\bin\Debug\net6.0\9.108.Constructors.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\9.108.Constructors\bin\Debug\net6.0\9.108.Constructors.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\9.108.Constructors\bin\Debug\net6.0\9.108.Constructors.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\9.108.Constructors\obj\Debug\net6.0\9.108.Constructors.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.108.Constructors\obj\Debug\net6.0\9.108.Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\9.108.Constructors\obj\Debug\net6.0\9.108.Constructors.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.108.Constructors\obj\Debug\net6.0\9.108.Constructors.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\9.108.Constructors\obj\Debug\net6.0\9.108.Constructors.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.108.Constructors\obj\Debug\net6.0\9.108.Constructors.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\9.108.Constructors\obj\Debug\net6.0\refint\9.108.Constructors.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\9.108.Constructors\obj\Debug\net6.0\9.108.Constructors.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\9.108.Constructors\obj\Debug\net6.0\9.108.Constructors.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.108.Constructors\obj\Debug\net6.0\ref\9.108.Constructors.dll
