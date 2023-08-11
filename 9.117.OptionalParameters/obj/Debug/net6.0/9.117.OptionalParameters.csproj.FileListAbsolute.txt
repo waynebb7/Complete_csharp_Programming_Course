@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\9.117.OptionalParameters\obj\Debug\net6.0\9.117.OptionalParameters.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.117.OptionalParameters\obj\Debug\net6.0\9.117.OptionalParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\9.117.OptionalParameters\obj\Debug\net6.0\9.117.OptionalParameters.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.117.OptionalParameters\obj\Debug\net6.0\9.117.OptionalParameters.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\9.117.OptionalParameters\obj\Debug\net6.0\9.117.OptionalParameters.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.117.OptionalParameters\bin\Debug\net6.0\9.117.OptionalParameters.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\9.117.OptionalParameters\bin\Debug\net6.0\9.117.OptionalParameters.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\9.117.OptionalParameters\bin\Debug\net6.0\9.117.OptionalParameters.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\9.117.OptionalParameters\bin\Debug\net6.0\9.117.OptionalParameters.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\9.117.OptionalParameters\bin\Debug\net6.0\9.117.OptionalParameters.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\9.117.OptionalParameters\obj\Debug\net6.0\9.117.OptionalParameters.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\9.117.OptionalParameters\obj\Debug\net6.0\refint\9.117.OptionalParameters.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\9.117.OptionalParameters\obj\Debug\net6.0\9.117.OptionalParameters.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\9.117.OptionalParameters\obj\Debug\net6.0\9.117.OptionalParameters.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.117.OptionalParameters\obj\Debug\net6.0\ref\9.117.OptionalParameters.dll
