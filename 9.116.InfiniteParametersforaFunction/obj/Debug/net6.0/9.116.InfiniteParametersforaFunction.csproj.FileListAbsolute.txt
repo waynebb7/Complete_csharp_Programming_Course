@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\9.116.InfiniteParametersforaFunction\obj\Debug\net6.0\9.116.InfiniteParametersforaFunction.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.116.InfiniteParametersforaFunction\obj\Debug\net6.0\9.116.InfiniteParametersforaFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\9.116.InfiniteParametersforaFunction\obj\Debug\net6.0\9.116.InfiniteParametersforaFunction.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.116.InfiniteParametersforaFunction\obj\Debug\net6.0\9.116.InfiniteParametersforaFunction.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\9.116.InfiniteParametersforaFunction\obj\Debug\net6.0\9.116.InfiniteParametersforaFunction.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.116.InfiniteParametersforaFunction\bin\Debug\net6.0\9.116.InfiniteParametersforaFunction.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\9.116.InfiniteParametersforaFunction\bin\Debug\net6.0\9.116.InfiniteParametersforaFunction.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\9.116.InfiniteParametersforaFunction\bin\Debug\net6.0\9.116.InfiniteParametersforaFunction.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\9.116.InfiniteParametersforaFunction\bin\Debug\net6.0\9.116.InfiniteParametersforaFunction.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\9.116.InfiniteParametersforaFunction\bin\Debug\net6.0\9.116.InfiniteParametersforaFunction.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\9.116.InfiniteParametersforaFunction\obj\Debug\net6.0\9.116.InfiniteParametersforaFunction.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\9.116.InfiniteParametersforaFunction\obj\Debug\net6.0\refint\9.116.InfiniteParametersforaFunction.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\9.116.InfiniteParametersforaFunction\obj\Debug\net6.0\9.116.InfiniteParametersforaFunction.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\9.116.InfiniteParametersforaFunction\obj\Debug\net6.0\9.116.InfiniteParametersforaFunction.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.116.InfiniteParametersforaFunction\obj\Debug\net6.0\ref\9.116.InfiniteParametersforaFunction.dll

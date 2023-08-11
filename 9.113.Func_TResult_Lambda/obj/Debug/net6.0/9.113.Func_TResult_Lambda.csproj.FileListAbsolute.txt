@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\9.113.Func_TResult_Lambda\bin\Debug\net6.0\9.113.Func_TResult_Lambda.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\9.113.Func_TResult_Lambda\bin\Debug\net6.0\9.113.Func_TResult_Lambda.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\9.113.Func_TResult_Lambda\bin\Debug\net6.0\9.113.Func_TResult_Lambda.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\9.113.Func_TResult_Lambda\bin\Debug\net6.0\9.113.Func_TResult_Lambda.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\9.113.Func_TResult_Lambda\bin\Debug\net6.0\9.113.Func_TResult_Lambda.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\9.113.Func_TResult_Lambda\obj\Debug\net6.0\9.113.Func_TResult_Lambda.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.113.Func_TResult_Lambda\obj\Debug\net6.0\9.113.Func_TResult_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\9.113.Func_TResult_Lambda\obj\Debug\net6.0\9.113.Func_TResult_Lambda.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.113.Func_TResult_Lambda\obj\Debug\net6.0\9.113.Func_TResult_Lambda.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\9.113.Func_TResult_Lambda\obj\Debug\net6.0\9.113.Func_TResult_Lambda.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.113.Func_TResult_Lambda\obj\Debug\net6.0\9.113.Func_TResult_Lambda.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\9.113.Func_TResult_Lambda\obj\Debug\net6.0\refint\9.113.Func_TResult_Lambda.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\9.113.Func_TResult_Lambda\obj\Debug\net6.0\9.113.Func_TResult_Lambda.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\9.113.Func_TResult_Lambda\obj\Debug\net6.0\9.113.Func_TResult_Lambda.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.113.Func_TResult_Lambda\obj\Debug\net6.0\ref\9.113.Func_TResult_Lambda.dll
