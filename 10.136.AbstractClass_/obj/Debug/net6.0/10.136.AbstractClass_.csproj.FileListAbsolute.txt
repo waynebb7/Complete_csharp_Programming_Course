@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\10.136.AbstractClass_\bin\Debug\net6.0\10.136.AbstractClass_.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\10.136.AbstractClass_\bin\Debug\net6.0\10.136.AbstractClass_.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\10.136.AbstractClass_\bin\Debug\net6.0\10.136.AbstractClass_.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\10.136.AbstractClass_\bin\Debug\net6.0\10.136.AbstractClass_.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\10.136.AbstractClass_\bin\Debug\net6.0\10.136.AbstractClass_.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\10.136.AbstractClass_\obj\Debug\net6.0\10.136.AbstractClass_.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.136.AbstractClass_\obj\Debug\net6.0\10.136.AbstractClass_.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\10.136.AbstractClass_\obj\Debug\net6.0\10.136.AbstractClass_.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.136.AbstractClass_\obj\Debug\net6.0\10.136.AbstractClass_.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\10.136.AbstractClass_\obj\Debug\net6.0\10.136.AbstractClass_.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.136.AbstractClass_\obj\Debug\net6.0\10.136.AbstractClass_.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\10.136.AbstractClass_\obj\Debug\net6.0\refint\10.136.AbstractClass_.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\10.136.AbstractClass_\obj\Debug\net6.0\10.136.AbstractClass_.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\10.136.AbstractClass_\obj\Debug\net6.0\10.136.AbstractClass_.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.136.AbstractClass_\obj\Debug\net6.0\ref\10.136.AbstractClass_.dll

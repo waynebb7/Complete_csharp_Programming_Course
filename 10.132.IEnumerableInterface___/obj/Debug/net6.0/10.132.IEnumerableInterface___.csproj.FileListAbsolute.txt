@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\10.132.IEnumerableInterface___\bin\Debug\net6.0\10.132.IEnumerableInterface___.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\10.132.IEnumerableInterface___\bin\Debug\net6.0\10.132.IEnumerableInterface___.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\10.132.IEnumerableInterface___\bin\Debug\net6.0\10.132.IEnumerableInterface___.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\10.132.IEnumerableInterface___\bin\Debug\net6.0\10.132.IEnumerableInterface___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\10.132.IEnumerableInterface___\bin\Debug\net6.0\10.132.IEnumerableInterface___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\10.132.IEnumerableInterface___\obj\Debug\net6.0\10.132.IEnumerableInterface___.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.132.IEnumerableInterface___\obj\Debug\net6.0\10.132.IEnumerableInterface___.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\10.132.IEnumerableInterface___\obj\Debug\net6.0\10.132.IEnumerableInterface___.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.132.IEnumerableInterface___\obj\Debug\net6.0\10.132.IEnumerableInterface___.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\10.132.IEnumerableInterface___\obj\Debug\net6.0\10.132.IEnumerableInterface___.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.132.IEnumerableInterface___\obj\Debug\net6.0\10.132.IEnumerableInterface___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\10.132.IEnumerableInterface___\obj\Debug\net6.0\refint\10.132.IEnumerableInterface___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\10.132.IEnumerableInterface___\obj\Debug\net6.0\10.132.IEnumerableInterface___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\10.132.IEnumerableInterface___\obj\Debug\net6.0\10.132.IEnumerableInterface___.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.132.IEnumerableInterface___\obj\Debug\net6.0\ref\10.132.IEnumerableInterface___.dll

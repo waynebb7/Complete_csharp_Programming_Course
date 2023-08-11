@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\9.119.AsynchronousFunctions\bin\Debug\net6.0\9.119.AsynchronousFunctions.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\9.119.AsynchronousFunctions\bin\Debug\net6.0\9.119.AsynchronousFunctions.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\9.119.AsynchronousFunctions\bin\Debug\net6.0\9.119.AsynchronousFunctions.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\9.119.AsynchronousFunctions\bin\Debug\net6.0\9.119.AsynchronousFunctions.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\9.119.AsynchronousFunctions\bin\Debug\net6.0\9.119.AsynchronousFunctions.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\9.119.AsynchronousFunctions\obj\Debug\net6.0\9.119.AsynchronousFunctions.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.119.AsynchronousFunctions\obj\Debug\net6.0\9.119.AsynchronousFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\9.119.AsynchronousFunctions\obj\Debug\net6.0\9.119.AsynchronousFunctions.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.119.AsynchronousFunctions\obj\Debug\net6.0\9.119.AsynchronousFunctions.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\9.119.AsynchronousFunctions\obj\Debug\net6.0\9.119.AsynchronousFunctions.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.119.AsynchronousFunctions\obj\Debug\net6.0\9.119.AsynchronousFunctions.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\9.119.AsynchronousFunctions\obj\Debug\net6.0\refint\9.119.AsynchronousFunctions.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\9.119.AsynchronousFunctions\obj\Debug\net6.0\9.119.AsynchronousFunctions.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\9.119.AsynchronousFunctions\obj\Debug\net6.0\9.119.AsynchronousFunctions.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.119.AsynchronousFunctions\obj\Debug\net6.0\ref\9.119.AsynchronousFunctions.dll

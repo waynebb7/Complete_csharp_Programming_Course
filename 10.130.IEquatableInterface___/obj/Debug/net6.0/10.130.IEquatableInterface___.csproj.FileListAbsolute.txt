@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\10.130.IEquatableInterface___\bin\Debug\net6.0\10.130.IEquatableInterface___.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\10.130.IEquatableInterface___\bin\Debug\net6.0\10.130.IEquatableInterface___.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\10.130.IEquatableInterface___\bin\Debug\net6.0\10.130.IEquatableInterface___.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\10.130.IEquatableInterface___\bin\Debug\net6.0\10.130.IEquatableInterface___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\10.130.IEquatableInterface___\bin\Debug\net6.0\10.130.IEquatableInterface___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\10.130.IEquatableInterface___\obj\Debug\net6.0\10.130.IEquatableInterface___.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.130.IEquatableInterface___\obj\Debug\net6.0\10.130.IEquatableInterface___.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\10.130.IEquatableInterface___\obj\Debug\net6.0\10.130.IEquatableInterface___.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.130.IEquatableInterface___\obj\Debug\net6.0\10.130.IEquatableInterface___.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\10.130.IEquatableInterface___\obj\Debug\net6.0\10.130.IEquatableInterface___.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.130.IEquatableInterface___\obj\Debug\net6.0\10.130.IEquatableInterface___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\10.130.IEquatableInterface___\obj\Debug\net6.0\refint\10.130.IEquatableInterface___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\10.130.IEquatableInterface___\obj\Debug\net6.0\10.130.IEquatableInterface___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\10.130.IEquatableInterface___\obj\Debug\net6.0\10.130.IEquatableInterface___.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.130.IEquatableInterface___\obj\Debug\net6.0\ref\10.130.IEquatableInterface___.dll

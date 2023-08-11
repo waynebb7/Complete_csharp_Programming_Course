@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\10.131.IEqualityComparer___\obj\Debug\net6.0\10.131.IEqualityComparer___.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.131.IEqualityComparer___\obj\Debug\net6.0\10.131.IEqualityComparer___.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\10.131.IEqualityComparer___\obj\Debug\net6.0\10.131.IEqualityComparer___.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.131.IEqualityComparer___\obj\Debug\net6.0\10.131.IEqualityComparer___.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\10.131.IEqualityComparer___\obj\Debug\net6.0\10.131.IEqualityComparer___.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.131.IEqualityComparer___\bin\Debug\net6.0\10.131.IEqualityComparer___.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\10.131.IEqualityComparer___\bin\Debug\net6.0\10.131.IEqualityComparer___.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\10.131.IEqualityComparer___\bin\Debug\net6.0\10.131.IEqualityComparer___.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\10.131.IEqualityComparer___\bin\Debug\net6.0\10.131.IEqualityComparer___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\10.131.IEqualityComparer___\bin\Debug\net6.0\10.131.IEqualityComparer___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\10.131.IEqualityComparer___\obj\Debug\net6.0\10.131.IEqualityComparer___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\10.131.IEqualityComparer___\obj\Debug\net6.0\refint\10.131.IEqualityComparer___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\10.131.IEqualityComparer___\obj\Debug\net6.0\10.131.IEqualityComparer___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\10.131.IEqualityComparer___\obj\Debug\net6.0\10.131.IEqualityComparer___.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.131.IEqualityComparer___\obj\Debug\net6.0\ref\10.131.IEqualityComparer___.dll

@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\10.128.IComparableInterface___\bin\Debug\net6.0\10.128.IComparableInterface___.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\10.128.IComparableInterface___\bin\Debug\net6.0\10.128.IComparableInterface___.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\10.128.IComparableInterface___\bin\Debug\net6.0\10.128.IComparableInterface___.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\10.128.IComparableInterface___\bin\Debug\net6.0\10.128.IComparableInterface___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\10.128.IComparableInterface___\bin\Debug\net6.0\10.128.IComparableInterface___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\10.128.IComparableInterface___\obj\Debug\net6.0\10.128.IComparableInterface___.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.128.IComparableInterface___\obj\Debug\net6.0\10.128.IComparableInterface___.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\10.128.IComparableInterface___\obj\Debug\net6.0\10.128.IComparableInterface___.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.128.IComparableInterface___\obj\Debug\net6.0\10.128.IComparableInterface___.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\10.128.IComparableInterface___\obj\Debug\net6.0\10.128.IComparableInterface___.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.128.IComparableInterface___\obj\Debug\net6.0\10.128.IComparableInterface___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\10.128.IComparableInterface___\obj\Debug\net6.0\refint\10.128.IComparableInterface___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\10.128.IComparableInterface___\obj\Debug\net6.0\10.128.IComparableInterface___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\10.128.IComparableInterface___\obj\Debug\net6.0\10.128.IComparableInterface___.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.128.IComparableInterface___\obj\Debug\net6.0\ref\10.128.IComparableInterface___.dll

@@ -1,0 +1,5 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\10.127.INotifyPropertyChanged\obj\Debug\net6.0\10.127.INotifyPropertyChanged.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.127.INotifyPropertyChanged\obj\Debug\net6.0\10.127.INotifyPropertyChanged.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\10.127.INotifyPropertyChanged\obj\Debug\net6.0\10.127.INotifyPropertyChanged.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.127.INotifyPropertyChanged\obj\Debug\net6.0\10.127.INotifyPropertyChanged.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\10.127.INotifyPropertyChanged\obj\Debug\net6.0\10.127.INotifyPropertyChanged.csproj.CoreCompileInputs.cache

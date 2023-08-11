@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\10.133.IEnumeratorInterface___\bin\Debug\net6.0\10.133.IEnumeratorInterface___.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\10.133.IEnumeratorInterface___\bin\Debug\net6.0\10.133.IEnumeratorInterface___.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\10.133.IEnumeratorInterface___\bin\Debug\net6.0\10.133.IEnumeratorInterface___.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\10.133.IEnumeratorInterface___\bin\Debug\net6.0\10.133.IEnumeratorInterface___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\10.133.IEnumeratorInterface___\bin\Debug\net6.0\10.133.IEnumeratorInterface___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\10.133.IEnumeratorInterface___\obj\Debug\net6.0\10.133.IEnumeratorInterface___.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.133.IEnumeratorInterface___\obj\Debug\net6.0\10.133.IEnumeratorInterface___.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\10.133.IEnumeratorInterface___\obj\Debug\net6.0\10.133.IEnumeratorInterface___.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.133.IEnumeratorInterface___\obj\Debug\net6.0\10.133.IEnumeratorInterface___.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\10.133.IEnumeratorInterface___\obj\Debug\net6.0\10.133.IEnumeratorInterface___.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.133.IEnumeratorInterface___\obj\Debug\net6.0\10.133.IEnumeratorInterface___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\10.133.IEnumeratorInterface___\obj\Debug\net6.0\refint\10.133.IEnumeratorInterface___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\10.133.IEnumeratorInterface___\obj\Debug\net6.0\10.133.IEnumeratorInterface___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\10.133.IEnumeratorInterface___\obj\Debug\net6.0\10.133.IEnumeratorInterface___.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.133.IEnumeratorInterface___\obj\Debug\net6.0\ref\10.133.IEnumeratorInterface___.dll

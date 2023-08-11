@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\9.118.ExtensionMethods\bin\Debug\net6.0\9.118.ExtensionMethods.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\9.118.ExtensionMethods\bin\Debug\net6.0\9.118.ExtensionMethods.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\9.118.ExtensionMethods\bin\Debug\net6.0\9.118.ExtensionMethods.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\9.118.ExtensionMethods\bin\Debug\net6.0\9.118.ExtensionMethods.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\9.118.ExtensionMethods\bin\Debug\net6.0\9.118.ExtensionMethods.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\9.118.ExtensionMethods\obj\Debug\net6.0\9.118.ExtensionMethods.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.118.ExtensionMethods\obj\Debug\net6.0\9.118.ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\9.118.ExtensionMethods\obj\Debug\net6.0\9.118.ExtensionMethods.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.118.ExtensionMethods\obj\Debug\net6.0\9.118.ExtensionMethods.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\9.118.ExtensionMethods\obj\Debug\net6.0\9.118.ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.118.ExtensionMethods\obj\Debug\net6.0\9.118.ExtensionMethods.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\9.118.ExtensionMethods\obj\Debug\net6.0\refint\9.118.ExtensionMethods.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\9.118.ExtensionMethods\obj\Debug\net6.0\9.118.ExtensionMethods.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\9.118.ExtensionMethods\obj\Debug\net6.0\9.118.ExtensionMethods.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\9.118.ExtensionMethods\obj\Debug\net6.0\ref\9.118.ExtensionMethods.dll

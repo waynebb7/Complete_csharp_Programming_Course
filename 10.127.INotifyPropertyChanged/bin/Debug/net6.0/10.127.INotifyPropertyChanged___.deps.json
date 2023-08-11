@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "10.127.INotifyPropertyChanged___/1.0.0": {
+        "runtime": {
+          "10.127.INotifyPropertyChanged___.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10.127.INotifyPropertyChanged___/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

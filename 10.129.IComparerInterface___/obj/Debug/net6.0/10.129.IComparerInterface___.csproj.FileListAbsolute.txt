@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\10.129.IComparerInterface___\bin\Debug\net6.0\10.129.IComparerInterface___.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\10.129.IComparerInterface___\bin\Debug\net6.0\10.129.IComparerInterface___.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\10.129.IComparerInterface___\bin\Debug\net6.0\10.129.IComparerInterface___.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\10.129.IComparerInterface___\bin\Debug\net6.0\10.129.IComparerInterface___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\10.129.IComparerInterface___\bin\Debug\net6.0\10.129.IComparerInterface___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\10.129.IComparerInterface___\obj\Debug\net6.0\10.129.IComparerInterface___.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.129.IComparerInterface___\obj\Debug\net6.0\10.129.IComparerInterface___.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\10.129.IComparerInterface___\obj\Debug\net6.0\10.129.IComparerInterface___.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.129.IComparerInterface___\obj\Debug\net6.0\10.129.IComparerInterface___.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\10.129.IComparerInterface___\obj\Debug\net6.0\10.129.IComparerInterface___.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.129.IComparerInterface___\obj\Debug\net6.0\10.129.IComparerInterface___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\10.129.IComparerInterface___\obj\Debug\net6.0\refint\10.129.IComparerInterface___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\10.129.IComparerInterface___\obj\Debug\net6.0\10.129.IComparerInterface___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\10.129.IComparerInterface___\obj\Debug\net6.0\10.129.IComparerInterface___.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\10.129.IComparerInterface___\obj\Debug\net6.0\ref\10.129.IComparerInterface___.dll
