@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\11.144.2.Arrays\bin\Debug\net6.0\11.144.2.Arrays.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\11.144.2.Arrays\bin\Debug\net6.0\11.144.2.Arrays.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\11.144.2.Arrays\bin\Debug\net6.0\11.144.2.Arrays.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\11.144.2.Arrays\bin\Debug\net6.0\11.144.2.Arrays.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.144.2.Arrays\bin\Debug\net6.0\11.144.2.Arrays.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\11.144.2.Arrays\obj\Debug\net6.0\11.144.2.Arrays.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.144.2.Arrays\obj\Debug\net6.0\11.144.2.Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\11.144.2.Arrays\obj\Debug\net6.0\11.144.2.Arrays.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.144.2.Arrays\obj\Debug\net6.0\11.144.2.Arrays.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\11.144.2.Arrays\obj\Debug\net6.0\11.144.2.Arrays.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.144.2.Arrays\obj\Debug\net6.0\11.144.2.Arrays.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.144.2.Arrays\obj\Debug\net6.0\refint\11.144.2.Arrays.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.144.2.Arrays\obj\Debug\net6.0\11.144.2.Arrays.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\11.144.2.Arrays\obj\Debug\net6.0\11.144.2.Arrays.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.144.2.Arrays\obj\Debug\net6.0\ref\11.144.2.Arrays.dll
