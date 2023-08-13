@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\11.152.SortedLists___\bin\Debug\net6.0\11.152.SortedLists___.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\11.152.SortedLists___\bin\Debug\net6.0\11.152.SortedLists___.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\11.152.SortedLists___\bin\Debug\net6.0\11.152.SortedLists___.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\11.152.SortedLists___\bin\Debug\net6.0\11.152.SortedLists___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.152.SortedLists___\bin\Debug\net6.0\11.152.SortedLists___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\11.152.SortedLists___\obj\Debug\net6.0\11.152.SortedLists___.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.152.SortedLists___\obj\Debug\net6.0\11.152.SortedLists___.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\11.152.SortedLists___\obj\Debug\net6.0\11.152.SortedLists___.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.152.SortedLists___\obj\Debug\net6.0\11.152.SortedLists___.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\11.152.SortedLists___\obj\Debug\net6.0\11.152.SortedLists___.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.152.SortedLists___\obj\Debug\net6.0\11.152.SortedLists___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.152.SortedLists___\obj\Debug\net6.0\refint\11.152.SortedLists___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.152.SortedLists___\obj\Debug\net6.0\11.152.SortedLists___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\11.152.SortedLists___\obj\Debug\net6.0\11.152.SortedLists___.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.152.SortedLists___\obj\Debug\net6.0\ref\11.152.SortedLists___.dll

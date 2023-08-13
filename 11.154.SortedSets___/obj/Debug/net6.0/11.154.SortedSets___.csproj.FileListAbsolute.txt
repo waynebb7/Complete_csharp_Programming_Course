@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\11.154.SortedSets___\bin\Debug\net6.0\11.154.SortedSets___.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\11.154.SortedSets___\bin\Debug\net6.0\11.154.SortedSets___.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\11.154.SortedSets___\bin\Debug\net6.0\11.154.SortedSets___.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\11.154.SortedSets___\bin\Debug\net6.0\11.154.SortedSets___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.154.SortedSets___\bin\Debug\net6.0\11.154.SortedSets___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\11.154.SortedSets___\obj\Debug\net6.0\11.154.SortedSets___.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.154.SortedSets___\obj\Debug\net6.0\11.154.SortedSets___.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\11.154.SortedSets___\obj\Debug\net6.0\11.154.SortedSets___.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.154.SortedSets___\obj\Debug\net6.0\11.154.SortedSets___.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\11.154.SortedSets___\obj\Debug\net6.0\11.154.SortedSets___.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.154.SortedSets___\obj\Debug\net6.0\11.154.SortedSets___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.154.SortedSets___\obj\Debug\net6.0\refint\11.154.SortedSets___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.154.SortedSets___\obj\Debug\net6.0\11.154.SortedSets___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\11.154.SortedSets___\obj\Debug\net6.0\11.154.SortedSets___.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.154.SortedSets___\obj\Debug\net6.0\ref\11.154.SortedSets___.dll

@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\11.151.3.HashSets___\bin\Debug\net6.0\11.151.3.HashSets___.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\11.151.3.HashSets___\bin\Debug\net6.0\11.151.3.HashSets___.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\11.151.3.HashSets___\bin\Debug\net6.0\11.151.3.HashSets___.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\11.151.3.HashSets___\bin\Debug\net6.0\11.151.3.HashSets___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.151.3.HashSets___\bin\Debug\net6.0\11.151.3.HashSets___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\11.151.3.HashSets___\obj\Debug\net6.0\11.151.3.HashSets___.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.151.3.HashSets___\obj\Debug\net6.0\11.151.3.HashSets___.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\11.151.3.HashSets___\obj\Debug\net6.0\11.151.3.HashSets___.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.151.3.HashSets___\obj\Debug\net6.0\11.151.3.HashSets___.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\11.151.3.HashSets___\obj\Debug\net6.0\11.151.3.HashSets___.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.151.3.HashSets___\obj\Debug\net6.0\11.151.3.HashSets___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.151.3.HashSets___\obj\Debug\net6.0\refint\11.151.3.HashSets___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.151.3.HashSets___\obj\Debug\net6.0\11.151.3.HashSets___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\11.151.3.HashSets___\obj\Debug\net6.0\11.151.3.HashSets___.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.151.3.HashSets___\obj\Debug\net6.0\ref\11.151.3.HashSets___.dll
