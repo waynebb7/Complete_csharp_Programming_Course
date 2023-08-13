@@ -1,0 +1,5 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\11.158.Graphs___\obj\Debug\net6.0\11.158.Graphs___.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.158.Graphs___\obj\Debug\net6.0\11.158.Graphs___.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\11.158.Graphs___\obj\Debug\net6.0\11.158.Graphs___.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.158.Graphs___\obj\Debug\net6.0\11.158.Graphs___.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\11.158.Graphs___\obj\Debug\net6.0\11.158.Graphs___.csproj.CoreCompileInputs.cache
