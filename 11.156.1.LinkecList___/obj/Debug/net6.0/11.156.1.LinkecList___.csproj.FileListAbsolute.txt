@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\11.156.1.LinkecList___\bin\Debug\net6.0\11.156.1.LinkecList___.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\11.156.1.LinkecList___\bin\Debug\net6.0\11.156.1.LinkecList___.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\11.156.1.LinkecList___\bin\Debug\net6.0\11.156.1.LinkecList___.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\11.156.1.LinkecList___\bin\Debug\net6.0\11.156.1.LinkecList___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.156.1.LinkecList___\bin\Debug\net6.0\11.156.1.LinkecList___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\11.156.1.LinkecList___\obj\Debug\net6.0\11.156.1.LinkecList___.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.156.1.LinkecList___\obj\Debug\net6.0\11.156.1.LinkecList___.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\11.156.1.LinkecList___\obj\Debug\net6.0\11.156.1.LinkecList___.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.156.1.LinkecList___\obj\Debug\net6.0\11.156.1.LinkecList___.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\11.156.1.LinkecList___\obj\Debug\net6.0\11.156.1.LinkecList___.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.156.1.LinkecList___\obj\Debug\net6.0\11.156.1.LinkecList___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.156.1.LinkecList___\obj\Debug\net6.0\refint\11.156.1.LinkecList___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.156.1.LinkecList___\obj\Debug\net6.0\11.156.1.LinkecList___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\11.156.1.LinkecList___\obj\Debug\net6.0\11.156.1.LinkecList___.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.156.1.LinkecList___\obj\Debug\net6.0\ref\11.156.1.LinkecList___.dll

@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\11.155.Tuples___\bin\Debug\net6.0\11.155.Tuples___.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\11.155.Tuples___\bin\Debug\net6.0\11.155.Tuples___.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\11.155.Tuples___\bin\Debug\net6.0\11.155.Tuples___.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\11.155.Tuples___\bin\Debug\net6.0\11.155.Tuples___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.155.Tuples___\bin\Debug\net6.0\11.155.Tuples___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\11.155.Tuples___\obj\Debug\net6.0\11.155.Tuples___.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.155.Tuples___\obj\Debug\net6.0\11.155.Tuples___.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\11.155.Tuples___\obj\Debug\net6.0\11.155.Tuples___.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.155.Tuples___\obj\Debug\net6.0\11.155.Tuples___.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\11.155.Tuples___\obj\Debug\net6.0\11.155.Tuples___.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.155.Tuples___\obj\Debug\net6.0\11.155.Tuples___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.155.Tuples___\obj\Debug\net6.0\refint\11.155.Tuples___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.155.Tuples___\obj\Debug\net6.0\11.155.Tuples___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\11.155.Tuples___\obj\Debug\net6.0\11.155.Tuples___.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.155.Tuples___\obj\Debug\net6.0\ref\11.155.Tuples___.dll
