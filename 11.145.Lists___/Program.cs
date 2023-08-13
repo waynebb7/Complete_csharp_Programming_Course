@@ -71,7 +71,9 @@ namespace _11._145.Lists___
             {
                 Debug.WriteLine(i);
             }
-            // Sort list
+
+            // SORT
+            // Sort() method.
             numbers.Sort();
             Debug.WriteLine("\nAfter sort method write all elements of list to output window as a check: ");
             foreach (int i in numbers)
@@ -80,7 +82,8 @@ namespace _11._145.Lists___
             }
 
 
-            // INSERT using InsertRange(1, myNewSubList) method
+            // INSERT
+            // InsertRange(1, myNewSubList) method.
             // Create new sublist | Insert sublist myNewSubList into numbers list at index position 1
             List<int> myNewSubList = new List<int>() { 638, 249 };
             numbers.InsertRange(1, myNewSubList);
@@ -91,7 +94,9 @@ namespace _11._145.Lists___
                 Debug.WriteLine(i);
             }
 
-            // REMOVE using Remove(2) method. Note that this removes the element holding the actual value int 2.
+            // REMOVE
+            // Remove(2) method.
+            // Note that this removes the element holding the actual value int 2.
             // If there are more than one occurence of the number 2 in the list it will only remove the first occurence.
             Debug.WriteLine("\nAfter Remove(2) method write all elements of list to output window as a check: ");
             numbers.Remove(2);
@@ -154,6 +159,8 @@ namespace _11._145.Lists___
             {
                 Debug.WriteLine(i);
             }
+
+
 
         }
     }

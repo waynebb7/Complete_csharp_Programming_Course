@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\11.148.Structs___\bin\Debug\net6.0\11.148.Structs___.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\11.148.Structs___\bin\Debug\net6.0\11.148.Structs___.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\11.148.Structs___\bin\Debug\net6.0\11.148.Structs___.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\11.148.Structs___\bin\Debug\net6.0\11.148.Structs___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.148.Structs___\bin\Debug\net6.0\11.148.Structs___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\11.148.Structs___\obj\Debug\net6.0\11.148.Structs___.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.148.Structs___\obj\Debug\net6.0\11.148.Structs___.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\11.148.Structs___\obj\Debug\net6.0\11.148.Structs___.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.148.Structs___\obj\Debug\net6.0\11.148.Structs___.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\11.148.Structs___\obj\Debug\net6.0\11.148.Structs___.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.148.Structs___\obj\Debug\net6.0\11.148.Structs___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.148.Structs___\obj\Debug\net6.0\refint\11.148.Structs___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.148.Structs___\obj\Debug\net6.0\11.148.Structs___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\11.148.Structs___\obj\Debug\net6.0\11.148.Structs___.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.148.Structs___\obj\Debug\net6.0\ref\11.148.Structs___.dll

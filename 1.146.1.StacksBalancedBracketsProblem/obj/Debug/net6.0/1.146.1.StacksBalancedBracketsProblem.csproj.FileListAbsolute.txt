@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\1.146.1.StacksBalancedBracketsProblem\obj\Debug\net6.0\1.146.1.StacksBalancedBracketsProblem.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\1.146.1.StacksBalancedBracketsProblem\obj\Debug\net6.0\1.146.1.StacksBalancedBracketsProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\1.146.1.StacksBalancedBracketsProblem\obj\Debug\net6.0\1.146.1.StacksBalancedBracketsProblem.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\1.146.1.StacksBalancedBracketsProblem\obj\Debug\net6.0\1.146.1.StacksBalancedBracketsProblem.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\1.146.1.StacksBalancedBracketsProblem\obj\Debug\net6.0\1.146.1.StacksBalancedBracketsProblem.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\1.146.1.StacksBalancedBracketsProblem\bin\Debug\net6.0\1.146.1.StacksBalancedBracketsProblem.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\1.146.1.StacksBalancedBracketsProblem\bin\Debug\net6.0\1.146.1.StacksBalancedBracketsProblem.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\1.146.1.StacksBalancedBracketsProblem\bin\Debug\net6.0\1.146.1.StacksBalancedBracketsProblem.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\1.146.1.StacksBalancedBracketsProblem\bin\Debug\net6.0\1.146.1.StacksBalancedBracketsProblem.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\1.146.1.StacksBalancedBracketsProblem\bin\Debug\net6.0\1.146.1.StacksBalancedBracketsProblem.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\1.146.1.StacksBalancedBracketsProblem\obj\Debug\net6.0\1.146.1.StacksBalancedBracketsProblem.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\1.146.1.StacksBalancedBracketsProblem\obj\Debug\net6.0\refint\1.146.1.StacksBalancedBracketsProblem.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\1.146.1.StacksBalancedBracketsProblem\obj\Debug\net6.0\1.146.1.StacksBalancedBracketsProblem.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\1.146.1.StacksBalancedBracketsProblem\obj\Debug\net6.0\1.146.1.StacksBalancedBracketsProblem.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\1.146.1.StacksBalancedBracketsProblem\obj\Debug\net6.0\ref\1.146.1.StacksBalancedBracketsProblem.dll

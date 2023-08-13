@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\1.150.Dictionary___\bin\Debug\net6.0\1.150.Dictionary___.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\1.150.Dictionary___\bin\Debug\net6.0\1.150.Dictionary___.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\1.150.Dictionary___\bin\Debug\net6.0\1.150.Dictionary___.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\1.150.Dictionary___\bin\Debug\net6.0\1.150.Dictionary___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\1.150.Dictionary___\bin\Debug\net6.0\1.150.Dictionary___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\1.150.Dictionary___\obj\Debug\net6.0\1.150.Dictionary___.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\1.150.Dictionary___\obj\Debug\net6.0\1.150.Dictionary___.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\1.150.Dictionary___\obj\Debug\net6.0\1.150.Dictionary___.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\1.150.Dictionary___\obj\Debug\net6.0\1.150.Dictionary___.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\1.150.Dictionary___\obj\Debug\net6.0\1.150.Dictionary___.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\1.150.Dictionary___\obj\Debug\net6.0\1.150.Dictionary___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\1.150.Dictionary___\obj\Debug\net6.0\refint\1.150.Dictionary___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\1.150.Dictionary___\obj\Debug\net6.0\1.150.Dictionary___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\1.150.Dictionary___\obj\Debug\net6.0\1.150.Dictionary___.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\1.150.Dictionary___\obj\Debug\net6.0\ref\1.150.Dictionary___.dll

@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\11.147.Queues___\bin\Debug\net6.0\11.147.Queues___.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\11.147.Queues___\bin\Debug\net6.0\11.147.Queues___.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\11.147.Queues___\bin\Debug\net6.0\11.147.Queues___.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\11.147.Queues___\bin\Debug\net6.0\11.147.Queues___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.147.Queues___\bin\Debug\net6.0\11.147.Queues___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\11.147.Queues___\obj\Debug\net6.0\11.147.Queues___.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.147.Queues___\obj\Debug\net6.0\11.147.Queues___.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\11.147.Queues___\obj\Debug\net6.0\11.147.Queues___.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.147.Queues___\obj\Debug\net6.0\11.147.Queues___.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\11.147.Queues___\obj\Debug\net6.0\11.147.Queues___.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.147.Queues___\obj\Debug\net6.0\11.147.Queues___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.147.Queues___\obj\Debug\net6.0\refint\11.147.Queues___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.147.Queues___\obj\Debug\net6.0\11.147.Queues___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\11.147.Queues___\obj\Debug\net6.0\11.147.Queues___.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.147.Queues___\obj\Debug\net6.0\ref\11.147.Queues___.dll

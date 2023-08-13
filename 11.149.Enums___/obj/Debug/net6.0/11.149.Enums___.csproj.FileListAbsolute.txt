@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\11.149.Enums___\bin\Debug\net6.0\11.149.Enums___.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\11.149.Enums___\bin\Debug\net6.0\11.149.Enums___.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\11.149.Enums___\bin\Debug\net6.0\11.149.Enums___.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\11.149.Enums___\bin\Debug\net6.0\11.149.Enums___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.149.Enums___\bin\Debug\net6.0\11.149.Enums___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\11.149.Enums___\obj\Debug\net6.0\11.149.Enums___.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.149.Enums___\obj\Debug\net6.0\11.149.Enums___.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\11.149.Enums___\obj\Debug\net6.0\11.149.Enums___.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.149.Enums___\obj\Debug\net6.0\11.149.Enums___.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\11.149.Enums___\obj\Debug\net6.0\11.149.Enums___.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.149.Enums___\obj\Debug\net6.0\11.149.Enums___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.149.Enums___\obj\Debug\net6.0\refint\11.149.Enums___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\11.149.Enums___\obj\Debug\net6.0\11.149.Enums___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\11.149.Enums___\obj\Debug\net6.0\11.149.Enums___.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\11.149.Enums___\obj\Debug\net6.0\ref\11.149.Enums___.dll
