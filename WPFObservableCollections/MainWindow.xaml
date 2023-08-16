@@ -5,8 +5,20 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPFObservableCollections"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="400" Width="400">
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBox Name="txtEntry" Height="35" FontSize="16" Margin="5"/>
+        <Button Grid.Column="1" Name="btnAdd" Content="Add" Width="50" Click="btnAdd_Click" HorizontalAlignment="Left"/>
+        <Button Grid.Column="1" Name="btnDelete" Content="Del" Width="50" Click="btnDelete_Click"  HorizontalAlignment="Left" Margin="60,0,0,0"/>
+        <Button Grid.Column="1" Name="btnClear" Content="Clr" Width="50" Click="btnClear_Click"  HorizontalAlignment="Left" Margin="120,0,0,0"/>
 
-    </Grid>
-</Window>
+        <ListView Name="lvEntries" Grid.Row="1" Grid.ColumnSpan="2" ItemsSource="{Binding Entries}"/>
+    </Grid></Window>
