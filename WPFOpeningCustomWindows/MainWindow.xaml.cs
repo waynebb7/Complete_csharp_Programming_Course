@@ -32,8 +32,14 @@ namespace WPFOpeningCustomWindows
 
         private void btnModal_Click(object sender, RoutedEventArgs e)
         {
-            ModalWindow modalWindow = new ModalWindow();
+            ModalWindow modalWindow = new ModalWindow(this);
+            Opacity = 0.4;
             modalWindow.ShowDialog();
+            Opacity = 1;
+            if (modalWindow.Success)
+            {
+                txtInput.Text = modalWindow.Input;
+            }
         }
     }
 }
