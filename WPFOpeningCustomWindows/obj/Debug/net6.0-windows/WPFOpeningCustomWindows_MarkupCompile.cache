@@ -1,5 +1,5 @@
 ﻿WPFOpeningCustomWindows
-1.0.0.0
+
 
 winexe
 C#
@@ -12,7 +12,7 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\_csc_projects\Complete_csharp_Programming_Course\WPFOpeningCustomWindows\App.xaml
 3454880409
 
-71759753078
+5491411047
 194726069201
 MainWindow.xaml;View\ModalWindow.xaml;View\NormalWindow.xaml;
 
