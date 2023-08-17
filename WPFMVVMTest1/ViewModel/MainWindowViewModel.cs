@@ -7,21 +7,13 @@ namespace WPFMVVMTest1.MVVM
     {
         public ObservableCollection<Item> Items { get; set; }
 
+        public RelayCommand AddCommand => new RelayCommand(execute => AddItem());
+        public RelayCommand DeleteCommand => new RelayCommand(execute => DeleteItem(), canExecute => SelectedItem != null);
+        public RelayCommand SaveCommand => new RelayCommand(execute => Save(), canExecute => CanSave());
+
         public MainWindowViewModel()
         {
             Items = new ObservableCollection<Item>();
-            Items.Add(new Item
-            {
-                Name = "Product1",
-                SerialNumber = "00001",
-                Quantity = 5
-            });
-            Items.Add(new Item
-            {
-                Name = "Product2",
-                SerialNumber = "00002",
-                Quantity = 7
-            });
         }
 
         private Item selectedItem;
@@ -34,6 +26,30 @@ namespace WPFMVVMTest1.MVVM
                 selectedItem = value;
                 OnPropertyChanged();
             }
+        }
+
+        private void AddItem()
+        {
+            Items.Add(new Item
+            {
+                Name = "NEW ITEM",
+                SerialNumber = "XXXXX",
+                Quantity = 0
+            });
+        }
+        private void DeleteItem()
+        {
+            Items.Remove(SelectedItem);
+        }
+
+        private void Save()
+        {
+            // Save to file process
+        }
+
+        private bool CanSave()
+        {
+            return true;
         }
     }
 }
