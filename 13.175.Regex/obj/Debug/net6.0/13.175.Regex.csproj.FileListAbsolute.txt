@@ -1,0 +1,14 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\13.175.Regex\bin\Debug\net6.0\13.175.Regex.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\13.175.Regex\bin\Debug\net6.0\13.175.Regex.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\13.175.Regex\bin\Debug\net6.0\13.175.Regex.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\13.175.Regex\bin\Debug\net6.0\13.175.Regex.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\13.175.Regex\bin\Debug\net6.0\13.175.Regex.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\13.175.Regex\obj\Debug\net6.0\13.175.Regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\13.175.Regex\obj\Debug\net6.0\13.175.Regex.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\13.175.Regex\obj\Debug\net6.0\13.175.Regex.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\13.175.Regex\obj\Debug\net6.0\13.175.Regex.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\13.175.Regex\obj\Debug\net6.0\13.175.Regex.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\13.175.Regex\obj\Debug\net6.0\refint\13.175.Regex.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\13.175.Regex\obj\Debug\net6.0\13.175.Regex.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\13.175.Regex\obj\Debug\net6.0\13.175.Regex.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\13.175.Regex\obj\Debug\net6.0\ref\13.175.Regex.dll
