@@ -1,0 +1,15 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\39.477.CodingTheApp\39.477.CodingTheApp\bin\Debug\netstandard2.0\39.477.CodingTheApp.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\39.477.CodingTheApp\39.477.CodingTheApp\bin\Debug\netstandard2.0\39.477.CodingTheApp.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\39.477.CodingTheApp\39.477.CodingTheApp\bin\Debug\netstandard2.0\ref\39.477.CodingTheApp.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\39.477.CodingTheApp\39.477.CodingTheApp\bin\Debug\netstandard2.0\39.477.CodingTheApp.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\39.477.CodingTheApp\39.477.CodingTheApp\obj\Debug\netstandard2.0\39.477.CodingTheApp.csproj.AssemblyReference.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\39.477.CodingTheApp\39.477.CodingTheApp\obj\Debug\netstandard2.0\39.477.CodingTheApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\39.477.CodingTheApp\39.477.CodingTheApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\39.477.CodingTheApp\39.477.CodingTheApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\39.477.CodingTheApp\39.477.CodingTheApp\obj\Debug\netstandard2.0\39.477.CodingTheApp.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\39.477.CodingTheApp\39.477.CodingTheApp\obj\Debug\netstandard2.0\39.477.CodingTheApp.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\39.477.CodingTheApp\39.477.CodingTheApp\obj\Debug\netstandard2.0\39.477.CodingTheApp.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\39.477.CodingTheApp\39.477.CodingTheApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\_csc_projects\Complete_csharp_Programming_Course\39.477.CodingTheApp\39.477.CodingTheApp\obj\Debug\netstandard2.0\39.477.CodingTheApp.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\39.477.CodingTheApp\39.477.CodingTheApp\obj\Debug\netstandard2.0\refint\39.477.CodingTheApp.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\39.477.CodingTheApp\39.477.CodingTheApp\obj\Debug\netstandard2.0\39.477.CodingTheApp.pdb
