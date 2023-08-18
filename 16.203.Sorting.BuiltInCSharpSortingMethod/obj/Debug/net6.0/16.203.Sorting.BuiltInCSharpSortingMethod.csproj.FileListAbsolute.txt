@@ -1,0 +1,14 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\16.203.Sorting.BuiltInCSharpSortingMethod\bin\Debug\net6.0\16.203.Sorting.BuiltInCSharpSortingMethod.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\16.203.Sorting.BuiltInCSharpSortingMethod\bin\Debug\net6.0\16.203.Sorting.BuiltInCSharpSortingMethod.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\16.203.Sorting.BuiltInCSharpSortingMethod\bin\Debug\net6.0\16.203.Sorting.BuiltInCSharpSortingMethod.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\16.203.Sorting.BuiltInCSharpSortingMethod\bin\Debug\net6.0\16.203.Sorting.BuiltInCSharpSortingMethod.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.203.Sorting.BuiltInCSharpSortingMethod\bin\Debug\net6.0\16.203.Sorting.BuiltInCSharpSortingMethod.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\16.203.Sorting.BuiltInCSharpSortingMethod\obj\Debug\net6.0\16.203.Sorting.BuiltInCSharpSortingMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\16.203.Sorting.BuiltInCSharpSortingMethod\obj\Debug\net6.0\16.203.Sorting.BuiltInCSharpSortingMethod.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.203.Sorting.BuiltInCSharpSortingMethod\obj\Debug\net6.0\16.203.Sorting.BuiltInCSharpSortingMethod.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\16.203.Sorting.BuiltInCSharpSortingMethod\obj\Debug\net6.0\16.203.Sorting.BuiltInCSharpSortingMethod.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.203.Sorting.BuiltInCSharpSortingMethod\obj\Debug\net6.0\16.203.Sorting.BuiltInCSharpSortingMethod.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.203.Sorting.BuiltInCSharpSortingMethod\obj\Debug\net6.0\refint\16.203.Sorting.BuiltInCSharpSortingMethod.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.203.Sorting.BuiltInCSharpSortingMethod\obj\Debug\net6.0\16.203.Sorting.BuiltInCSharpSortingMethod.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\16.203.Sorting.BuiltInCSharpSortingMethod\obj\Debug\net6.0\16.203.Sorting.BuiltInCSharpSortingMethod.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.203.Sorting.BuiltInCSharpSortingMethod\obj\Debug\net6.0\ref\16.203.Sorting.BuiltInCSharpSortingMethod.dll

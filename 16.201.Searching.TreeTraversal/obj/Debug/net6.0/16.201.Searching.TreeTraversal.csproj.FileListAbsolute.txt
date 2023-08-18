@@ -1,0 +1,14 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\16.201.Searching.TreeTraversal\bin\Debug\net6.0\16.201.Searching.TreeTraversal.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\16.201.Searching.TreeTraversal\bin\Debug\net6.0\16.201.Searching.TreeTraversal.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\16.201.Searching.TreeTraversal\bin\Debug\net6.0\16.201.Searching.TreeTraversal.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\16.201.Searching.TreeTraversal\bin\Debug\net6.0\16.201.Searching.TreeTraversal.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.201.Searching.TreeTraversal\bin\Debug\net6.0\16.201.Searching.TreeTraversal.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\16.201.Searching.TreeTraversal\obj\Debug\net6.0\16.201.Searching.TreeTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\16.201.Searching.TreeTraversal\obj\Debug\net6.0\16.201.Searching.TreeTraversal.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.201.Searching.TreeTraversal\obj\Debug\net6.0\16.201.Searching.TreeTraversal.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\16.201.Searching.TreeTraversal\obj\Debug\net6.0\16.201.Searching.TreeTraversal.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.201.Searching.TreeTraversal\obj\Debug\net6.0\16.201.Searching.TreeTraversal.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.201.Searching.TreeTraversal\obj\Debug\net6.0\refint\16.201.Searching.TreeTraversal.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.201.Searching.TreeTraversal\obj\Debug\net6.0\16.201.Searching.TreeTraversal.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\16.201.Searching.TreeTraversal\obj\Debug\net6.0\16.201.Searching.TreeTraversal.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.201.Searching.TreeTraversal\obj\Debug\net6.0\ref\16.201.Searching.TreeTraversal.dll
