@@ -1,0 +1,14 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\16.197.Searching.InterpolationSearch\bin\Debug\net6.0\16.197.Searching.InterpolationSearch.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\16.197.Searching.InterpolationSearch\bin\Debug\net6.0\16.197.Searching.InterpolationSearch.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\16.197.Searching.InterpolationSearch\bin\Debug\net6.0\16.197.Searching.InterpolationSearch.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\16.197.Searching.InterpolationSearch\bin\Debug\net6.0\16.197.Searching.InterpolationSearch.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.197.Searching.InterpolationSearch\bin\Debug\net6.0\16.197.Searching.InterpolationSearch.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\16.197.Searching.InterpolationSearch\obj\Debug\net6.0\16.197.Searching.InterpolationSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\16.197.Searching.InterpolationSearch\obj\Debug\net6.0\16.197.Searching.InterpolationSearch.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.197.Searching.InterpolationSearch\obj\Debug\net6.0\16.197.Searching.InterpolationSearch.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\16.197.Searching.InterpolationSearch\obj\Debug\net6.0\16.197.Searching.InterpolationSearch.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.197.Searching.InterpolationSearch\obj\Debug\net6.0\16.197.Searching.InterpolationSearch.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.197.Searching.InterpolationSearch\obj\Debug\net6.0\refint\16.197.Searching.InterpolationSearch.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.197.Searching.InterpolationSearch\obj\Debug\net6.0\16.197.Searching.InterpolationSearch.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\16.197.Searching.InterpolationSearch\obj\Debug\net6.0\16.197.Searching.InterpolationSearch.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.197.Searching.InterpolationSearch\obj\Debug\net6.0\ref\16.197.Searching.InterpolationSearch.dll

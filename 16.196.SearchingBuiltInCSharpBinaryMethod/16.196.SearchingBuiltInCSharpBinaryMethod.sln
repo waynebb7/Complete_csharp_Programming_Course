@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.196.SearchingBuiltInCSharpBinaryMethod", "16.196.SearchingBuiltInCSharpBinaryMethod.csproj", "{3F74AE96-94E0-49C1-B262-3387FF0DDC34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F74AE96-94E0-49C1-B262-3387FF0DDC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F74AE96-94E0-49C1-B262-3387FF0DDC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F74AE96-94E0-49C1-B262-3387FF0DDC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F74AE96-94E0-49C1-B262-3387FF0DDC34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE193F41-C946-445C-9F5E-22DB9F9B1811}
+	EndGlobalSection
+EndGlobal
