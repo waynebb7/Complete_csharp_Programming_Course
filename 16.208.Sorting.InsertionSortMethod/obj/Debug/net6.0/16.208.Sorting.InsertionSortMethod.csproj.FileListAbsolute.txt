@@ -1,0 +1,14 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\16.208.Sorting.InsertionSortMethod\bin\Debug\net6.0\16.208.Sorting.InsertionSortMethod.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\16.208.Sorting.InsertionSortMethod\bin\Debug\net6.0\16.208.Sorting.InsertionSortMethod.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\16.208.Sorting.InsertionSortMethod\bin\Debug\net6.0\16.208.Sorting.InsertionSortMethod.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\16.208.Sorting.InsertionSortMethod\bin\Debug\net6.0\16.208.Sorting.InsertionSortMethod.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.208.Sorting.InsertionSortMethod\bin\Debug\net6.0\16.208.Sorting.InsertionSortMethod.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\16.208.Sorting.InsertionSortMethod\obj\Debug\net6.0\16.208.Sorting.InsertionSortMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\16.208.Sorting.InsertionSortMethod\obj\Debug\net6.0\16.208.Sorting.InsertionSortMethod.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.208.Sorting.InsertionSortMethod\obj\Debug\net6.0\16.208.Sorting.InsertionSortMethod.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\16.208.Sorting.InsertionSortMethod\obj\Debug\net6.0\16.208.Sorting.InsertionSortMethod.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.208.Sorting.InsertionSortMethod\obj\Debug\net6.0\16.208.Sorting.InsertionSortMethod.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.208.Sorting.InsertionSortMethod\obj\Debug\net6.0\refint\16.208.Sorting.InsertionSortMethod.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.208.Sorting.InsertionSortMethod\obj\Debug\net6.0\16.208.Sorting.InsertionSortMethod.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\16.208.Sorting.InsertionSortMethod\obj\Debug\net6.0\16.208.Sorting.InsertionSortMethod.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.208.Sorting.InsertionSortMethod\obj\Debug\net6.0\ref\16.208.Sorting.InsertionSortMethod.dll

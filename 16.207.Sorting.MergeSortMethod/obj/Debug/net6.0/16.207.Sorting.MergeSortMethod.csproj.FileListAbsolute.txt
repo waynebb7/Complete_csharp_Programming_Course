@@ -1,0 +1,14 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\16.207.Sorting.MergeSortMethod\obj\Debug\net6.0\16.207.Sorting.MergeSortMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\16.207.Sorting.MergeSortMethod\obj\Debug\net6.0\16.207.Sorting.MergeSortMethod.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.207.Sorting.MergeSortMethod\obj\Debug\net6.0\16.207.Sorting.MergeSortMethod.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\16.207.Sorting.MergeSortMethod\obj\Debug\net6.0\16.207.Sorting.MergeSortMethod.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.207.Sorting.MergeSortMethod\bin\Debug\net6.0\16.207.Sorting.MergeSortMethod.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\16.207.Sorting.MergeSortMethod\bin\Debug\net6.0\16.207.Sorting.MergeSortMethod.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\16.207.Sorting.MergeSortMethod\bin\Debug\net6.0\16.207.Sorting.MergeSortMethod.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\16.207.Sorting.MergeSortMethod\bin\Debug\net6.0\16.207.Sorting.MergeSortMethod.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.207.Sorting.MergeSortMethod\bin\Debug\net6.0\16.207.Sorting.MergeSortMethod.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\16.207.Sorting.MergeSortMethod\obj\Debug\net6.0\16.207.Sorting.MergeSortMethod.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.207.Sorting.MergeSortMethod\obj\Debug\net6.0\refint\16.207.Sorting.MergeSortMethod.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.207.Sorting.MergeSortMethod\obj\Debug\net6.0\16.207.Sorting.MergeSortMethod.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\16.207.Sorting.MergeSortMethod\obj\Debug\net6.0\16.207.Sorting.MergeSortMethod.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.207.Sorting.MergeSortMethod\obj\Debug\net6.0\ref\16.207.Sorting.MergeSortMethod.dll
