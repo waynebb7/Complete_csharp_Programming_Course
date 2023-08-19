@@ -1,0 +1,14 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\22.274.LINQ.OfTypeAndWhere2\bin\Debug\net6.0\22.274.LINQ.OfTypeAndWhere2.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\22.274.LINQ.OfTypeAndWhere2\bin\Debug\net6.0\22.274.LINQ.OfTypeAndWhere2.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\22.274.LINQ.OfTypeAndWhere2\bin\Debug\net6.0\22.274.LINQ.OfTypeAndWhere2.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\22.274.LINQ.OfTypeAndWhere2\bin\Debug\net6.0\22.274.LINQ.OfTypeAndWhere2.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\22.274.LINQ.OfTypeAndWhere2\bin\Debug\net6.0\22.274.LINQ.OfTypeAndWhere2.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\22.274.LINQ.OfTypeAndWhere2\obj\Debug\net6.0\22.274.LINQ.OfTypeAndWhere2.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\22.274.LINQ.OfTypeAndWhere2\obj\Debug\net6.0\22.274.LINQ.OfTypeAndWhere2.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\22.274.LINQ.OfTypeAndWhere2\obj\Debug\net6.0\22.274.LINQ.OfTypeAndWhere2.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\22.274.LINQ.OfTypeAndWhere2\obj\Debug\net6.0\22.274.LINQ.OfTypeAndWhere2.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\22.274.LINQ.OfTypeAndWhere2\obj\Debug\net6.0\22.274.LINQ.OfTypeAndWhere2.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\22.274.LINQ.OfTypeAndWhere2\obj\Debug\net6.0\refint\22.274.LINQ.OfTypeAndWhere2.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\22.274.LINQ.OfTypeAndWhere2\obj\Debug\net6.0\22.274.LINQ.OfTypeAndWhere2.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\22.274.LINQ.OfTypeAndWhere2\obj\Debug\net6.0\22.274.LINQ.OfTypeAndWhere2.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\22.274.LINQ.OfTypeAndWhere2\obj\Debug\net6.0\ref\22.274.LINQ.OfTypeAndWhere2.dll

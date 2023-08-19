@@ -1,0 +1,14 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\22.273.LINQ.SelectAndSelectMany\bin\Debug\net6.0\22.273.LINQ.SelectAndSelectMany.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\22.273.LINQ.SelectAndSelectMany\bin\Debug\net6.0\22.273.LINQ.SelectAndSelectMany.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\22.273.LINQ.SelectAndSelectMany\bin\Debug\net6.0\22.273.LINQ.SelectAndSelectMany.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\22.273.LINQ.SelectAndSelectMany\bin\Debug\net6.0\22.273.LINQ.SelectAndSelectMany.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\22.273.LINQ.SelectAndSelectMany\bin\Debug\net6.0\22.273.LINQ.SelectAndSelectMany.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\22.273.LINQ.SelectAndSelectMany\obj\Debug\net6.0\22.273.LINQ.SelectAndSelectMany.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\22.273.LINQ.SelectAndSelectMany\obj\Debug\net6.0\22.273.LINQ.SelectAndSelectMany.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\22.273.LINQ.SelectAndSelectMany\obj\Debug\net6.0\22.273.LINQ.SelectAndSelectMany.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\22.273.LINQ.SelectAndSelectMany\obj\Debug\net6.0\22.273.LINQ.SelectAndSelectMany.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\22.273.LINQ.SelectAndSelectMany\obj\Debug\net6.0\22.273.LINQ.SelectAndSelectMany.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\22.273.LINQ.SelectAndSelectMany\obj\Debug\net6.0\refint\22.273.LINQ.SelectAndSelectMany.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\22.273.LINQ.SelectAndSelectMany\obj\Debug\net6.0\22.273.LINQ.SelectAndSelectMany.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\22.273.LINQ.SelectAndSelectMany\obj\Debug\net6.0\22.273.LINQ.SelectAndSelectMany.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\22.273.LINQ.SelectAndSelectMany\obj\Debug\net6.0\ref\22.273.LINQ.SelectAndSelectMany.dll
