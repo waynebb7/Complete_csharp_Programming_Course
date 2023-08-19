@@ -1,0 +1,4 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\16.199.Searching.DepthFirstSearchMethod\obj\Debug\net6.0\16.199.Searching.DepthFirstSearchMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\16.199.Searching.DepthFirstSearchMethod\obj\Debug\net6.0\16.199.Searching.DepthFirstSearchMethod.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.199.Searching.DepthFirstSearchMethod\obj\Debug\net6.0\16.199.Searching.DepthFirstSearchMethod.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\16.199.Searching.DepthFirstSearchMethod\obj\Debug\net6.0\16.199.Searching.DepthFirstSearchMethod.csproj.CoreCompileInputs.cache

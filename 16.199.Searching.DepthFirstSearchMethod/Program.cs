@@ -2,7 +2,6 @@
 
 namespace _16._199.Searching.DepthFirstSearchMethod
 {
-
     class Node
     {
         public Node left;

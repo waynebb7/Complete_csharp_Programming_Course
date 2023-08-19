@@ -1,0 +1,14 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\16.199.Searching.DepthFirstSearchMethod_Tree\bin\Debug\net6.0\16.199.Searching.DepthFirstSearchMethod_Tree.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\16.199.Searching.DepthFirstSearchMethod_Tree\bin\Debug\net6.0\16.199.Searching.DepthFirstSearchMethod_Tree.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\16.199.Searching.DepthFirstSearchMethod_Tree\bin\Debug\net6.0\16.199.Searching.DepthFirstSearchMethod_Tree.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\16.199.Searching.DepthFirstSearchMethod_Tree\bin\Debug\net6.0\16.199.Searching.DepthFirstSearchMethod_Tree.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.199.Searching.DepthFirstSearchMethod_Tree\bin\Debug\net6.0\16.199.Searching.DepthFirstSearchMethod_Tree.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\16.199.Searching.DepthFirstSearchMethod_Tree\obj\Debug\net6.0\16.199.Searching.DepthFirstSearchMethod_Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\16.199.Searching.DepthFirstSearchMethod_Tree\obj\Debug\net6.0\16.199.Searching.DepthFirstSearchMethod_Tree.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.199.Searching.DepthFirstSearchMethod_Tree\obj\Debug\net6.0\16.199.Searching.DepthFirstSearchMethod_Tree.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\16.199.Searching.DepthFirstSearchMethod_Tree\obj\Debug\net6.0\16.199.Searching.DepthFirstSearchMethod_Tree.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.199.Searching.DepthFirstSearchMethod_Tree\obj\Debug\net6.0\16.199.Searching.DepthFirstSearchMethod_Tree.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.199.Searching.DepthFirstSearchMethod_Tree\obj\Debug\net6.0\refint\16.199.Searching.DepthFirstSearchMethod_Tree.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.199.Searching.DepthFirstSearchMethod_Tree\obj\Debug\net6.0\16.199.Searching.DepthFirstSearchMethod_Tree.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\16.199.Searching.DepthFirstSearchMethod_Tree\obj\Debug\net6.0\16.199.Searching.DepthFirstSearchMethod_Tree.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.199.Searching.DepthFirstSearchMethod_Tree\obj\Debug\net6.0\ref\16.199.Searching.DepthFirstSearchMethod_Tree.dll

@@ -1,0 +1,14 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\16.194.Searching.LinearSeachMethod\bin\Debug\net6.0\16.194.Searching.LinearSeachMethod.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\16.194.Searching.LinearSeachMethod\bin\Debug\net6.0\16.194.Searching.LinearSeachMethod.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\16.194.Searching.LinearSeachMethod\bin\Debug\net6.0\16.194.Searching.LinearSeachMethod.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\16.194.Searching.LinearSeachMethod\bin\Debug\net6.0\16.194.Searching.LinearSeachMethod.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.194.Searching.LinearSeachMethod\bin\Debug\net6.0\16.194.Searching.LinearSeachMethod.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\16.194.Searching.LinearSeachMethod\obj\Debug\net6.0\16.194.Searching.LinearSeachMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\16.194.Searching.LinearSeachMethod\obj\Debug\net6.0\16.194.Searching.LinearSeachMethod.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.194.Searching.LinearSeachMethod\obj\Debug\net6.0\16.194.Searching.LinearSeachMethod.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\16.194.Searching.LinearSeachMethod\obj\Debug\net6.0\16.194.Searching.LinearSeachMethod.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.194.Searching.LinearSeachMethod\obj\Debug\net6.0\16.194.Searching.LinearSeachMethod.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.194.Searching.LinearSeachMethod\obj\Debug\net6.0\refint\16.194.Searching.LinearSeachMethod.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.194.Searching.LinearSeachMethod\obj\Debug\net6.0\16.194.Searching.LinearSeachMethod.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\16.194.Searching.LinearSeachMethod\obj\Debug\net6.0\16.194.Searching.LinearSeachMethod.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.194.Searching.LinearSeachMethod\obj\Debug\net6.0\ref\16.194.Searching.LinearSeachMethod.dll
