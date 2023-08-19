@@ -1,0 +1,14 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\17.218.Encapsulation___\bin\Debug\net6.0\17.218.Encapsulation___.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\17.218.Encapsulation___\bin\Debug\net6.0\17.218.Encapsulation___.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\17.218.Encapsulation___\bin\Debug\net6.0\17.218.Encapsulation___.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\17.218.Encapsulation___\bin\Debug\net6.0\17.218.Encapsulation___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\17.218.Encapsulation___\bin\Debug\net6.0\17.218.Encapsulation___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\17.218.Encapsulation___\obj\Debug\net6.0\17.218.Encapsulation___.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\17.218.Encapsulation___\obj\Debug\net6.0\17.218.Encapsulation___.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\17.218.Encapsulation___\obj\Debug\net6.0\17.218.Encapsulation___.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\17.218.Encapsulation___\obj\Debug\net6.0\17.218.Encapsulation___.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\17.218.Encapsulation___\obj\Debug\net6.0\17.218.Encapsulation___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\17.218.Encapsulation___\obj\Debug\net6.0\refint\17.218.Encapsulation___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\17.218.Encapsulation___\obj\Debug\net6.0\17.218.Encapsulation___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\17.218.Encapsulation___\obj\Debug\net6.0\17.218.Encapsulation___.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\17.218.Encapsulation___\obj\Debug\net6.0\ref\17.218.Encapsulation___.dll

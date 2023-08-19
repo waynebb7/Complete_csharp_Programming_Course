@@ -1,0 +1,14 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\16.200.Searching.BreadthFirstTraversalMethod_Tree\bin\Debug\net6.0\16.200.Searching.BreadthFirstTraversalMethod_Tree.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\16.200.Searching.BreadthFirstTraversalMethod_Tree\bin\Debug\net6.0\16.200.Searching.BreadthFirstTraversalMethod_Tree.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\16.200.Searching.BreadthFirstTraversalMethod_Tree\bin\Debug\net6.0\16.200.Searching.BreadthFirstTraversalMethod_Tree.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\16.200.Searching.BreadthFirstTraversalMethod_Tree\bin\Debug\net6.0\16.200.Searching.BreadthFirstTraversalMethod_Tree.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.200.Searching.BreadthFirstTraversalMethod_Tree\bin\Debug\net6.0\16.200.Searching.BreadthFirstTraversalMethod_Tree.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\16.200.Searching.BreadthFirstTraversalMethod_Tree\obj\Debug\net6.0\16.200.Searching.BreadthFirstTraversalMethod_Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\16.200.Searching.BreadthFirstTraversalMethod_Tree\obj\Debug\net6.0\16.200.Searching.BreadthFirstTraversalMethod_Tree.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.200.Searching.BreadthFirstTraversalMethod_Tree\obj\Debug\net6.0\16.200.Searching.BreadthFirstTraversalMethod_Tree.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\16.200.Searching.BreadthFirstTraversalMethod_Tree\obj\Debug\net6.0\16.200.Searching.BreadthFirstTraversalMethod_Tree.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.200.Searching.BreadthFirstTraversalMethod_Tree\obj\Debug\net6.0\16.200.Searching.BreadthFirstTraversalMethod_Tree.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.200.Searching.BreadthFirstTraversalMethod_Tree\obj\Debug\net6.0\refint\16.200.Searching.BreadthFirstTraversalMethod_Tree.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.200.Searching.BreadthFirstTraversalMethod_Tree\obj\Debug\net6.0\16.200.Searching.BreadthFirstTraversalMethod_Tree.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\16.200.Searching.BreadthFirstTraversalMethod_Tree\obj\Debug\net6.0\16.200.Searching.BreadthFirstTraversalMethod_Tree.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.200.Searching.BreadthFirstTraversalMethod_Tree\obj\Debug\net6.0\ref\16.200.Searching.BreadthFirstTraversalMethod_Tree.dll

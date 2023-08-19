@@ -1,5 +1,4 @@
 ﻿using System.Diagnostics;
-using System.Runtime.CompilerServices;
 
 namespace _16._201.Searching.TreeTraversal
 {
@@ -68,7 +67,6 @@ namespace _16._201.Searching.TreeTraversal
             InOrder(root);
             PreOrder(root);
             PostOrder(root);
-
         }
     }
 }

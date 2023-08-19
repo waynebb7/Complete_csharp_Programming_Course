@@ -1,0 +1,14 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\17.220.Inheritence___\bin\Debug\net6.0\17.220.Inheritence___.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\17.220.Inheritence___\bin\Debug\net6.0\17.220.Inheritence___.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\17.220.Inheritence___\bin\Debug\net6.0\17.220.Inheritence___.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\17.220.Inheritence___\bin\Debug\net6.0\17.220.Inheritence___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\17.220.Inheritence___\bin\Debug\net6.0\17.220.Inheritence___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\17.220.Inheritence___\obj\Debug\net6.0\17.220.Inheritence___.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\17.220.Inheritence___\obj\Debug\net6.0\17.220.Inheritence___.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\17.220.Inheritence___\obj\Debug\net6.0\17.220.Inheritence___.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\17.220.Inheritence___\obj\Debug\net6.0\17.220.Inheritence___.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\17.220.Inheritence___\obj\Debug\net6.0\17.220.Inheritence___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\17.220.Inheritence___\obj\Debug\net6.0\refint\17.220.Inheritence___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\17.220.Inheritence___\obj\Debug\net6.0\17.220.Inheritence___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\17.220.Inheritence___\obj\Debug\net6.0\17.220.Inheritence___.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\17.220.Inheritence___\obj\Debug\net6.0\ref\17.220.Inheritence___.dll

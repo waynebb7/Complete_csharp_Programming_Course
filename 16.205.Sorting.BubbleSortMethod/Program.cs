@@ -1,5 +1,8 @@
-﻿namespace _16._205.Sorting.BubbleSortMethod
+﻿using System.Diagnostics;
+
+namespace _16._205.Sorting.BubbleSortMethod
 {
+    // This version by WBB provides the algorithm and an implementation
     internal class Program
     {
         static int[] bubbleSort(int[] arr)
@@ -22,6 +25,14 @@
 
         static void Main(string[] args)
         {
+            int[] unsortedArray = { 64, 34, 25, 12, 22, 11, 90 };
+            int[] sortedArray = bubbleSort(unsortedArray);
+
+            Debug.WriteLine("Sorted array:");
+            foreach (int num in sortedArray)
+            {
+                Debug.Write(num + " ");
+            }
         }
     }
 }

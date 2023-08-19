@@ -1,0 +1,14 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\17.222.Covariance___\bin\Debug\net6.0\17.222.Covariance___.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\17.222.Covariance___\bin\Debug\net6.0\17.222.Covariance___.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\17.222.Covariance___\bin\Debug\net6.0\17.222.Covariance___.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\17.222.Covariance___\bin\Debug\net6.0\17.222.Covariance___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\17.222.Covariance___\bin\Debug\net6.0\17.222.Covariance___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\17.222.Covariance___\obj\Debug\net6.0\17.222.Covariance___.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\17.222.Covariance___\obj\Debug\net6.0\17.222.Covariance___.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\17.222.Covariance___\obj\Debug\net6.0\17.222.Covariance___.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\17.222.Covariance___\obj\Debug\net6.0\17.222.Covariance___.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\17.222.Covariance___\obj\Debug\net6.0\17.222.Covariance___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\17.222.Covariance___\obj\Debug\net6.0\refint\17.222.Covariance___.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\17.222.Covariance___\obj\Debug\net6.0\17.222.Covariance___.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\17.222.Covariance___\obj\Debug\net6.0\17.222.Covariance___.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\17.222.Covariance___\obj\Debug\net6.0\ref\17.222.Covariance___.dll

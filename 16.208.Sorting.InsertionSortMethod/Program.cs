@@ -2,6 +2,7 @@
 
 namespace _16._208.Sorting.InsertionSortMethod
 {
+    // This version by WBB provides the algorithm and an implementation
     internal class Program
     {
         static int[] InsertionSort(int[] arr)

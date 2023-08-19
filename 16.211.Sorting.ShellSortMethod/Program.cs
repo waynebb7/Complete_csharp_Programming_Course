@@ -2,7 +2,7 @@
 
 namespace _16._211.Sorting.ShellSortMethod
 {
-    // THIS IS THE CORRECTED VERSION BY WBB
+    // This version by WBB provides the algorithm and an implementation
     internal class Program
     {
         static int[] ShellSort(int[] arr)

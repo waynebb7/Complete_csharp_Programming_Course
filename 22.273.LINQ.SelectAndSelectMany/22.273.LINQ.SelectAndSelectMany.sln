@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.273.LINQ.SelectAndSelectMany", "22.273.LINQ.SelectAndSelectMany.csproj", "{8D0D479F-1B43-4D9E-A120-01791B1A16E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D0D479F-1B43-4D9E-A120-01791B1A16E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0D479F-1B43-4D9E-A120-01791B1A16E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0D479F-1B43-4D9E-A120-01791B1A16E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0D479F-1B43-4D9E-A120-01791B1A16E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1E477D3-9B59-49AE-8201-835A46B32DBC}
+	EndGlobalSection
+EndGlobal

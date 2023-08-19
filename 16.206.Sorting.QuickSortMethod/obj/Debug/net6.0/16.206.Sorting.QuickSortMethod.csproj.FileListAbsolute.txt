@@ -1,0 +1,14 @@
+C:\_csc_projects\Complete_csharp_Programming_Course\16.206.Sorting.QuickSortMethod\obj\Debug\net6.0\16.206.Sorting.QuickSortMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csc_projects\Complete_csharp_Programming_Course\16.206.Sorting.QuickSortMethod\obj\Debug\net6.0\16.206.Sorting.QuickSortMethod.AssemblyInfoInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.206.Sorting.QuickSortMethod\obj\Debug\net6.0\16.206.Sorting.QuickSortMethod.AssemblyInfo.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\16.206.Sorting.QuickSortMethod\obj\Debug\net6.0\16.206.Sorting.QuickSortMethod.csproj.CoreCompileInputs.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.206.Sorting.QuickSortMethod\bin\Debug\net6.0\16.206.Sorting.QuickSortMethod.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\16.206.Sorting.QuickSortMethod\bin\Debug\net6.0\16.206.Sorting.QuickSortMethod.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\16.206.Sorting.QuickSortMethod\bin\Debug\net6.0\16.206.Sorting.QuickSortMethod.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\16.206.Sorting.QuickSortMethod\bin\Debug\net6.0\16.206.Sorting.QuickSortMethod.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.206.Sorting.QuickSortMethod\bin\Debug\net6.0\16.206.Sorting.QuickSortMethod.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\16.206.Sorting.QuickSortMethod\obj\Debug\net6.0\16.206.Sorting.QuickSortMethod.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.206.Sorting.QuickSortMethod\obj\Debug\net6.0\refint\16.206.Sorting.QuickSortMethod.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\16.206.Sorting.QuickSortMethod\obj\Debug\net6.0\16.206.Sorting.QuickSortMethod.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\16.206.Sorting.QuickSortMethod\obj\Debug\net6.0\16.206.Sorting.QuickSortMethod.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\16.206.Sorting.QuickSortMethod\obj\Debug\net6.0\ref\16.206.Sorting.QuickSortMethod.dll

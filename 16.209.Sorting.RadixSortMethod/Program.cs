@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
 using System;
 
-// THIS VERSION WORKS (Got this from w3resource.com)
+// THIS VERSION WORKS (Ref w3resource.com)
 namespace Radix_Sort
 {
     class Program
