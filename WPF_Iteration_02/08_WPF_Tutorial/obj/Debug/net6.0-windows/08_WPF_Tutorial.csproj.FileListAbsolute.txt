@@ -11,3 +11,10 @@ C:\_csc_projects\Complete_csharp_Programming_Course\WPF_Iteration_02\08_WPF_Tuto
 C:\_csc_projects\Complete_csharp_Programming_Course\WPF_Iteration_02\08_WPF_Tutorial\obj\Debug\net6.0-windows\08_WPF_Tutorial.dll
 C:\_csc_projects\Complete_csharp_Programming_Course\WPF_Iteration_02\08_WPF_Tutorial\obj\Debug\net6.0-windows\refint\08_WPF_Tutorial.dll
 C:\_csc_projects\Complete_csharp_Programming_Course\WPF_Iteration_02\08_WPF_Tutorial\obj\Debug\net6.0-windows\08_WPF_Tutorial.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\WPF_Iteration_02\08_WPF_Tutorial\bin\Debug\net6.0-windows\08_WPF_Tutorial.exe
+C:\_csc_projects\Complete_csharp_Programming_Course\WPF_Iteration_02\08_WPF_Tutorial\bin\Debug\net6.0-windows\08_WPF_Tutorial.deps.json
+C:\_csc_projects\Complete_csharp_Programming_Course\WPF_Iteration_02\08_WPF_Tutorial\bin\Debug\net6.0-windows\08_WPF_Tutorial.runtimeconfig.json
+C:\_csc_projects\Complete_csharp_Programming_Course\WPF_Iteration_02\08_WPF_Tutorial\bin\Debug\net6.0-windows\08_WPF_Tutorial.dll
+C:\_csc_projects\Complete_csharp_Programming_Course\WPF_Iteration_02\08_WPF_Tutorial\bin\Debug\net6.0-windows\08_WPF_Tutorial.pdb
+C:\_csc_projects\Complete_csharp_Programming_Course\WPF_Iteration_02\08_WPF_Tutorial\obj\Debug\net6.0-windows\08_WPF_Tutorial.genruntimeconfig.cache
+C:\_csc_projects\Complete_csharp_Programming_Course\WPF_Iteration_02\08_WPF_Tutorial\obj\Debug\net6.0-windows\ref\08_WPF_Tutorial.dll
