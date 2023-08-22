@@ -1,5 +1,5 @@
 ﻿06_WPF_Tutorial_v4
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\_csc_projects\Complete_csharp_Programming_Course\WPF_Iteration_02\06_WPF_Tutorial_v4\App.xaml
 21358919699
 
-6-20980845
+4-1803577269
 194726069201
 MainWindow.xaml;View\UserControls\MenuBar.xaml;
 
-True
+False
 
