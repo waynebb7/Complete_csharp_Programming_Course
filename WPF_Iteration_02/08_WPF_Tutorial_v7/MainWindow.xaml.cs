@@ -2,7 +2,7 @@
 using System.Runtime.CompilerServices;
 using System.Windows;
 
-namespace _08_WPF_Tutorial_v6
+namespace _08_WPF_Tutorial_v7
 {
     public partial class MainWindow : Window, INotifyPropertyChanged
     {
@@ -11,7 +11,6 @@ namespace _08_WPF_Tutorial_v6
             DataContext = this;
             InitializeComponent();
         }
-
         private string _boundText;
 
         public event PropertyChangedEventHandler? PropertyChanged;
