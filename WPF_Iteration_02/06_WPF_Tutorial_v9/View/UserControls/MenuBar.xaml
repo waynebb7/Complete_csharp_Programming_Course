@@ -1,0 +1,473 @@
+﻿<UserControl x:Class="_06_WPF_Tutorial_v9.View.UserControls.MenuBar"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:_06_WPF_Tutorial_v9.View.UserControls"
+             mc:Ignorable="d" 
+             d:Height="50" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Menu>
+            <!--FILE-->
+            <MenuItem Header="File">
+                <MenuItem Header="New">
+                    <MenuItem Header="Project..."/>
+                    <MenuItem Header="Repository..."/>
+                    <MenuItem Header="File..."/>
+                    <MenuItem Header="Project From Existing Code..."/>
+                    <MenuItem Header="From Cookiecutter..."/>
+                    <MenuItem Header="Import">
+                        <MenuItem Header="Import from XCode"/>
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Header="Open">
+                    <MenuItem Header="Project/Solution..."/>
+                    <MenuItem Header="Folder..."/>
+                    <MenuItem Header="Web Site..."/>
+                    <MenuItem Header="CMake..."/>
+                    <MenuItem Header="Import STM32CubeIDE project..."/>
+                    <Separator/>
+                    <MenuItem Header="File..."/>
+                </MenuItem>
+                <MenuItem Header="Clone Repository..."/>
+                <MenuItem Header="Start Window"/>
+                <Separator/>
+                <MenuItem Header="Add">
+                    <MenuItem Header="New Project..."/>
+                    <Separator/>
+                    <MenuItem Header="Existing Project..."/>
+                    <MenuItem Header="Existing Web Site..."/>
+                </MenuItem>
+                <Separator/>
+                <MenuItem Header="Close"/>
+                <MenuItem Header="Close Solution"/>
+                <Separator/>
+                <MenuItem Header="Start Live Share Session"/>
+                <MenuItem Header="Join Live Share Session"/>
+                <Separator/>
+                <MenuItem Header="Save"/>
+                <MenuItem Header="Save As..."/>
+                <MenuItem Header="Save All"/>
+                <Separator/>
+                <MenuItem Header="Page Setup..."/>
+                <MenuItem Header="Printing..."/>
+                <Separator/>
+                <MenuItem Header="Account Setting..."/>
+                <Separator/>
+                <MenuItem Header="Recent Files"/>
+                <MenuItem Header="Recent Projects and Solutions"/>
+                <Separator/>
+                <MenuItem Header="Exit"/>
+            </MenuItem>
+
+
+            <!--EDIT-->
+            <MenuItem Header="Edit">
+                <MenuItem Header="Go To">
+                    <MenuItem Header="Go To Line..."/>
+                    <MenuItem Header="Go To All..."/>
+                    <MenuItem Header="Go To File..."/>
+                    <MenuItem Header="Go To Recent File..."/>
+                    <MenuItem Header="Go To Type..."/>
+                    <MenuItem Header="Go To Member..."/>
+                    <MenuItem Header="Go To Symbol..."/>
+                    <Separator/>
+                    <MenuItem Header="Go To Next Issue in File..."/>
+                    <MenuItem Header="Go To Previous Issue in File..."/>
+                    <MenuItem Header="Go To Last Edit Location..."/>
+                </MenuItem>
+                <MenuItem Header="Find and Replace">
+                    <MenuItem Header="Quick Find"/>
+                    <MenuItem Header="Quick Replace"/>
+                    <MenuItem Header="Find in Files"/>
+                    <MenuItem Header="Replace in Files"/>
+                </MenuItem>
+                <Separator/>
+                <MenuItem Header="Undo"/>
+                <MenuItem Header="Redo"/>
+                <MenuItem Header="Undo Last Global Action"/>
+                <MenuItem Header="Redo Last Global Action"/>
+                <Separator/>
+                <MenuItem Header="Cut"/>
+                <MenuItem Header="Copy"/>
+                <MenuItem Header="Paste"/>
+                <MenuItem Header="Show Clipboard History"/>
+                <MenuItem Header="Duplicate"/>
+                <MenuItem Header="Delete"/>
+                <Separator/>
+                <MenuItem Header="Select All"/>
+                <Separator/>
+                <MenuItem Header="Insert File As Text..."/>
+                <MenuItem Header="Advanced">
+                    <MenuItem Header="Toggle Spell Checker"/>
+                    <MenuItem Header="Format Document"/>
+                    <MenuItem Header="Format Selection"/>
+                    <MenuItem Header="Tabify Selected Lines"/>
+                    <MenuItem Header="Untabify Selected Lines"/>
+                    <MenuItem Header="Make Uppercase"/>
+                    <MenuItem Header="Make Lowercase"/>
+                    <MenuItem Header="Move Selected Lines Up"/>
+                    <MenuItem Header="Move Selected Lines Down"/>
+                    <MenuItem Header="Delete Horizontal White Space"/>
+                    <MenuItem Header="Expand Selection to Containing Block"/>
+                    <MenuItem Header="Expand Selection"/>
+                    <MenuItem Header="View White Space"/>
+                    <MenuItem Header="Word Wrap"/>
+                    <MenuItem Header="Incremental Search"/>
+                    <MenuItem Header="Sort Lines"/>
+                    <MenuItem Header="Join Lines"/>
+                    <MenuItem Header="Next Subword"/>
+                    <MenuItem Header="Previous Subword"/>
+                    <MenuItem Header="Expand Selection to Line"/>
+                    <MenuItem Header="Comment Selection"/>
+                    <MenuItem Header="Uncomment Selection"/>
+                    <MenuItem Header="Increase Line Indent"/>
+                    <MenuItem Header="Decrease Line Indent"/>
+                    <MenuItem Header="Set End of Line Sequence">
+                        <MenuItem Header="CRLF"/>
+                        <MenuItem Header="LF"/>
+                        <MenuItem Header="CR"/>
+                    </MenuItem>
+                    <MenuItem Header="Set Indentation">
+                        <MenuItem Header="Spaces"/>
+                        <MenuItem Header="Tabs"/>
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Header="Bookmarks">
+                    <MenuItem Header="Toggle Bookmark"/>
+                    <MenuItem Header="Enable All Bookmarks"/>
+                    <MenuItem Header="Enable Bookmark"/>
+                    <MenuItem Header="Previous Bookmark"/>
+                    <MenuItem Header="Next Bookmark"/>
+                    <MenuItem Header="Clear Bookmark"/>
+                    <Separator/>
+                    <MenuItem Header="Previous Bookmark in Folder"/>
+                    <MenuItem Header="Next Bookmark in Folder"/>
+                    <Separator/>
+                    <MenuItem Header="Previous Bookmark in document"/>
+                    <MenuItem Header="Next Bookmark in Document"/>
+                    <MenuItem Header="Clear All Bookmarks in Document"/>
+                    <Separator/>
+                    <MenuItem Header="Add Task List Shortcut"/>
+                </MenuItem>
+                <MenuItem Header="Outlining">
+                    <MenuItem Header="Toggle Outlining Expansion"/>
+                    <MenuItem Header="Toggle All Outlining"/>
+                    <MenuItem Header="Stop Outlining"/>
+                    <MenuItem Header="Stop hiding Current"/>
+                </MenuItem>
+                <MenuItem Header="IntelliSense">
+                    <MenuItem Header="Sort Namespaces"/>
+                    <MenuItem Header="Remove and Sort Namespaces"/>
+                    <Separator/>
+                    <MenuItem Header="List Members"/>
+                    <MenuItem Header="Parameter Info"/>
+                    <MenuItem Header="Quick Info"/>
+                    <MenuItem Header="Complete Word"/>
+                    <MenuItem Header="Switch between automatic and tab-only IntelliSense completion"/>
+                    <Separator/>
+                    <MenuItem Header="Surround With..."/>
+                    <MenuItem Header="Insert Snippet..."/>
+
+                </MenuItem>
+                <MenuItem Header="Multiple Carets">
+                    <MenuItem Header="Insert Next Matching Caret"/>
+                    <MenuItem Header="Insert Carets as All Matching"/>
+                    <MenuItem Header="Remove Last Caret"/>
+                    <MenuItem Header="Move Last Caret Down"/>
+                    <MenuItem Header="Rotate Primary Caret Down"/>
+                    <MenuItem Header="Rotate Primary Caret Up"/>
+                </MenuItem>
+                <MenuItem Header="Refactor">
+                    <MenuItem Header="Rename..."/>
+                </MenuItem>
+                <MenuItem Header="IntelliCode suggestions">
+                    <MenuItem Header="Preview"/>
+                </MenuItem>
+            </MenuItem>
+
+
+            <!--VIEWT-->
+            <MenuItem Header="View">
+                <MenuItem Header="Code"/>
+                <MenuItem Header="Designer"/>
+                <MenuItem Header="Open"/>
+                <MenuItem Header="Open With..."/>
+                <MenuItem Header="Design in Blend...."/>
+                <Separator/>
+                <MenuItem Header="Solution Explorer"/>
+                <MenuItem Header="Git Changes"/>
+                <MenuItem Header="Git Repository"/>
+                <MenuItem Header="Team Explorer"/>
+                <MenuItem Header="Server Explorer"/>
+                <MenuItem Header="Data Lake Analytics Explorer"/>
+                <MenuItem Header="SQL Server Object Explorer"/>
+                <MenuItem Header="Test Explorer"/>
+                <MenuItem Header="Cookiecutter Explorer"/>
+                <Separator/>
+                <MenuItem Header="Bookmark Window"/>
+                <MenuItem Header="Call Hierarchy"/>
+                <MenuItem Header="Class View"/>
+                <MenuItem Header="Code Definition Window"/>
+                <MenuItem Header="Object Browser"/>
+                <Separator/>
+                <MenuItem Header="Error List"/>
+                <MenuItem Header="IncrediBuild Monitor"/>
+                <MenuItem Header="Output"/>
+                <MenuItem Header="Task List"/>
+                <MenuItem Header="Toolbox"/>
+                <MenuItem Header="Notifications"/>
+                <MenuItem Header="Remote File Explorer"/>
+                <MenuItem Header="Terminal"/>
+                <MenuItem Header="Other Windows">
+                    <MenuItem Header="Command Window"/>
+                    <MenuItem Header="Data Sources"/>
+                    <Separator/>
+                    <MenuItem Header="Load Test Runs"/>
+                    <Separator/>
+                    <MenuItem Header="Data Tools Operations"/>
+                    <MenuItem Header="Microsoft Azure Activity Log"/>
+                    <MenuItem Header="Shader Syntax Visualizer"/>
+                    <MenuItem Header="Syntax Visualizer"/>
+                    <MenuItem Header="HDInsight Task List Window"/>
+                    <MenuItem Header="HiveServer2 Output Window"/>
+                    <MenuItem Header="Application Insights Search"/>
+                    <MenuItem Header="Live Share"/>
+                    <MenuItem Header="Web Publish Activity"/>
+                    <MenuItem Header="Task Runner Explorer"/>
+                    <MenuItem Header="JSON Outline"/>
+                    <MenuItem Header="Diagnostic Events"/>
+                    <MenuItem Header="Device Log"/>
+                    <MenuItem Header="Containers"/>
+                    <MenuItem Header="Package Manager Console"/>
+                    <MenuItem Header="Stack Trace Explorer"/>
+                    <MenuItem Header="Unreal Engine Log"/>
+                    <MenuItem Header="Browser Link Dashboard"/>
+                    <MenuItem Header="IntelliCode Suggestions"/>
+                    <MenuItem Header="Document Outline"/>
+                    <MenuItem Header="Dev Tunnels"/>
+                    <MenuItem Header="Property Manager"/>
+                    <MenuItem Header="Resource View"/>
+                    <MenuItem Header="Python Environments"/>
+                    <MenuItem Header="Python Interactive Window"/>
+                    <MenuItem Header="F# Interactive"/>
+                    <MenuItem Header="C# Interactive"/>
+                    <Separator/>
+                    <MenuItem Header="Code Metrics Results"/>
+                    <MenuItem Header="Python Performance Explorer"/>
+                </MenuItem>
+                <Separator/>
+                <MenuItem Header="Toolbars">
+                    <MenuItem Header="IncrediBuild"/>
+                    <MenuItem Header="Android"/>
+                    <MenuItem Header="Application Insights"/>
+                    <MenuItem Header="Build"/>
+                    <MenuItem Header="Cloud Deployment"/>
+                    <MenuItem Header="Compare Files"/>
+                    <MenuItem Header="Data Lake"/>
+                    <MenuItem Header="Debug"/>
+                    <MenuItem Header="Debug Location"/>
+                    <MenuItem Header="Dev Tunnels"/>
+                    <MenuItem Header="Dialog Editor"/>
+                    <MenuItem Header="Dsl Designer"/>
+                    <MenuItem Header="Formatting"/>
+                    <MenuItem Header="Graphics"/>
+                    <MenuItem Header="HTML Source Editing"/>
+                    <MenuItem Header="Image Editor"/>
+                    <MenuItem Header="iOS"/>
+                    <MenuItem Header="Layout"/>
+                    <MenuItem Header="Microsoft Office Excel"/>
+                    <MenuItem Header="Microsoft Office Word"/>
+                    <MenuItem Header="Python"/>
+                    <MenuItem Header="Query Designer"/>
+                    <MenuItem Header="Ribbon Editor"/>
+                    <MenuItem Header="Source Control"/>
+                    <MenuItem Header="Source Control - Team Foundation"/>
+                    <MenuItem Header="Standard"/>
+                    <MenuItem Header="Table Designer"/>
+                    <MenuItem Header="Test Adapter for Google Test"/>
+                    <MenuItem Header="Text Editor"/>
+                    <MenuItem Header="View Designer"/>
+                    <MenuItem Header="Web One Click Publishing"/>
+                    <MenuItem Header="Workflow"/>
+                    <MenuItem Header="XML Editor"/>
+                    <Separator/>
+                    <MenuItem Header="Customise..."/>
+                </MenuItem>
+                <MenuItem Header="Full Screen"/>
+                <MenuItem Header="All Windows"/>
+                <Separator/>
+                <MenuItem Header="Navigate Backward"/>
+                <MenuItem Header="Navigate Forward"/>
+                <MenuItem Header="Next Task"/>
+                <MenuItem Header="Previous Task"/>
+                <Separator/>
+                <MenuItem Header="Properties Window"/>
+                <MenuItem Header="Property Pages"/>
+            </MenuItem>
+
+
+            <!--GIT-->
+            <MenuItem Header="Git">
+                <MenuItem Header="Clone Repository..."/>
+                <MenuItem Header="Create Git Repository..."/>
+                <MenuItem Header="Local Repositories...">
+                    <MenuItem Header="Open Local Repository..."/>
+                </MenuItem>
+                <Separator/>
+                <MenuItem Header="Commit or Stash..."/>
+                <Separator/>
+                <MenuItem Header="Settings"/>
+            </MenuItem>
+
+
+            <!--PROJECT-->
+            <MenuItem Header="Project">
+                <MenuItem Header="Add Window (WPF)..."/>
+                <MenuItem Header="Add Page (WPF)..."/>
+                <MenuItem Header="Add User Control (WPF)..."/>
+                <MenuItem Header="Add Resource Dictionary (WPF)..."/>
+                <MenuItem Header="Add Class..."/>
+                <MenuItem Header="Add New Data Source..."/>
+                <Separator/>
+                <MenuItem Header="Add New Item..."/>
+                <MenuItem Header="Add Existing Item..."/>
+                <Separator/>
+                <MenuItem Header="Edit Project File"/>
+                <Separator/>
+                <MenuItem Header="New Folder"/>
+                <Separator/>
+                <MenuItem Header="Install WSL For Me"/>
+                <Separator/>
+                <MenuItem Header="Exclude From Project"/>
+                <MenuItem Header="Show All Files"/>
+                <MenuItem Header="Run Custom Tool"/>
+                <Separator/>
+                <MenuItem Header="Add Project Reference..."/>
+                <MenuItem Header="Add Shared Project Reference..."/>
+                <MenuItem Header="Add COM Reference..."/>
+                <Separator/>
+                <MenuItem Header="Connected Services">
+                    <MenuItem Header="Add">
+                        <MenuItem Header="Azure Storage"/>
+                        <MenuItem Header="Azure Application Insights"/>
+                        <MenuItem Header="Azure SignalIR Service"/>
+                        <MenuItem Header="Azure Key Vault"/>
+                        <MenuItem Header="Azure App Configuration"/>
+                        <MenuItem Header="SQL Server Database"/>
+                        <MenuItem Header="Azure Cache for Redis"/>
+                        <MenuItem Header="Azure Cosmos DB"/>
+                        <MenuItem Header="Microsoft Identity Platform"/>
+                        <MenuItem Header="SQLite Database"/>
+                        <MenuItem Header="PostgreSQL Database"/>
+                        <MenuItem Header="MongoDB Database"/>
+                        <MenuItem Header="RabbitMQ"/>
+                        <MenuItem Header="Microsoft Power Platform"/>
+                    </MenuItem>
+                    <MenuItem Header="Manage Connected Services"/>
+                    <MenuItem Header="Settings"/>
+                </MenuItem>
+                <MenuItem Header="Configure Startup Projects..."/>
+                <MenuItem Header="Set as Startup Project"/>
+                <MenuItem Header="Export Template..."/>
+                <MenuItem Header="Manage NuGet Packages..."/>
+                <Separator/>
+                <MenuItem Header="Refresh Project Toolbox Items"/>
+                <Separator/>
+                <MenuItem Header="Other"/>
+            </MenuItem>
+
+
+            <!--BUILD-->
+            <MenuItem Header="Build">
+                <MenuItem Header="Build Solution"/>
+                <MenuItem Header="Rebuild Solution"/>
+                <MenuItem Header="Clean Solution"/>
+                <MenuItem Header="Run Code Analysis on Solution"/>
+                <Separator/>
+                <MenuItem Header="Publish Selection"/>
+                <Separator/>
+                <MenuItem Header="Batch Build..."/>
+                <MenuItem Header="Configuration Manager..."/>
+            </MenuItem>
+
+
+            <!--DEBUG-->
+            <MenuItem Header="Debug">
+                <MenuItem Header="Windows">
+                    <MenuItem Header="Breakpoints"/>
+                    <MenuItem Header="Exception Settings"/>
+                    <MenuItem Header="Output"/>
+                    <MenuItem Header="Show Diagnostic Tools"/>
+                    <MenuItem Header="Python Performance Explorer"/>
+                    <Separator/>
+                    <MenuItem Header="Immediate"/>
+                    <MenuItem Header="Python Debug Interactive"/>
+                    <Separator/>
+                    <MenuItem Header="XAML Binding Failures"/>
+                    <MenuItem Header="Access Checker"/>
+                    <Separator/>
+                    <MenuItem Header="Serial Monitor"/>
+                </MenuItem>
+                <MenuItem Header="Graphics">
+                    <MenuItem Header="Start Graphics Debugging"/>
+                    <MenuItem Header="Start Graphics Debugging as Installed App Package..."/>
+                    <Separator/>
+                    <MenuItem Header="DirectX Control Panel"/>
+                </MenuItem>
+                <Separator/>
+                <MenuItem Header="Start Debugging"/>
+                <MenuItem Header="Start Without Debugging"/>
+                <MenuItem Header="Attach Unity Debugger"/>
+                <MenuItem Header="Apply Code Changes"/>
+                <MenuItem Header="Performance Profiler..."/>
+                <MenuItem Header="Relaunch Performance Profiler"/>
+                <MenuItem Header="Launch Python Profiling..."/>
+                <MenuItem Header="Attach to Process..."/>
+                <MenuItem Header="Reattach to Process"/>
+                <MenuItem Header="Other Debug Targets">
+                    <MenuItem Header="Debug Installed App Package..."/>
+                    <MenuItem Header="Trigger Windows Store App Prefetch"/>
+                    <MenuItem Header="Debug Universal Windows App Prelaunch"/>
+                    <Separator/>
+                    <MenuItem Header="Debug Linux Core Dump with Native only..."/>
+                </MenuItem>
+                <Separator/>
+                <MenuItem Header="Step Into"/>
+                <MenuItem Header="Step Over"/>
+                <Separator/>
+                <MenuItem Header="Toggle Breakpoint">
+                    <MenuItem Header="Breakpoint Group..."/>
+                    <MenuItem Header="Function Breakpoint..."/>
+                </MenuItem>
+                <MenuItem Header="New Breakpoint"/>
+                <MenuItem Header="Delete All Breakpoints"/>
+                <Separator/>
+                <MenuItem Header="Clear All DataTips"/>
+                <MenuItem Header="Export DataTips..."/>
+                <MenuItem Header="Import DataTips..."/>
+                <Separator/>
+                <MenuItem Header="Options..."/>
+                <MenuItem Header="Debug Properties"/>
+            </MenuItem>
+
+
+            <!--TEST-->
+            <MenuItem Header="Test"/>
+            <!--ANALYSE-->
+            <MenuItem Header="Analyse"/>
+            <!--TOOLS-->
+            <MenuItem Header="Tools"/>
+            <!--EXTENSIONS-->
+            <MenuItem Header="Extensions"/>
+            <!--WINDOW-->
+            <MenuItem Header="Window"/>
+            <!--HELP-->
+            <MenuItem Header="Help"/>
+        </Menu>
+    </Grid>
+
+</UserControl>
