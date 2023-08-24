@@ -11,6 +11,7 @@
             <RowDefinition/>
             <RowDefinition/>
         </Grid.RowDefinitions>
+        
         <Button Name="btnFire" 
                 Content="Fire" 
                 Width="100" 
@@ -25,5 +26,4 @@
                    HorizontalAlignment="Center"
                    />
     </Grid>
-
 </Window>
