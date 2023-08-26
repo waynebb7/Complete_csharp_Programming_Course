@@ -20,7 +20,6 @@ namespace _13_WPF_Tutorial_v1
             set { _entries = value; }
         }
 
-
         private void btnAdd_Click(object sender, RoutedEventArgs e)
         {
             Entries.Add(txtEntry.Text);
