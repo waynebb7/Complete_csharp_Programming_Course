@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_csc_projects\\Complete_csharp_Programming_Course\\WPFCustomApp - WBB Rework\\WPFCustomApp.csproj": {}
+    "C:\\_csc_projects\\Complete_csharp_Programming_Course\\WPF_Iteration_01\\WPFCustomApp - WBB Rework\\WPFCustomApp.csproj": {}
   },
   "projects": {
-    "C:\\_csc_projects\\Complete_csharp_Programming_Course\\WPFCustomApp - WBB Rework\\WPFCustomApp.csproj": {
+    "C:\\_csc_projects\\Complete_csharp_Programming_Course\\WPF_Iteration_01\\WPFCustomApp - WBB Rework\\WPFCustomApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_csc_projects\\Complete_csharp_Programming_Course\\WPFCustomApp - WBB Rework\\WPFCustomApp.csproj",
+        "projectUniqueName": "C:\\_csc_projects\\Complete_csharp_Programming_Course\\WPF_Iteration_01\\WPFCustomApp - WBB Rework\\WPFCustomApp.csproj",
         "projectName": "WPFCustomApp",
-        "projectPath": "C:\\_csc_projects\\Complete_csharp_Programming_Course\\WPFCustomApp - WBB Rework\\WPFCustomApp.csproj",
+        "projectPath": "C:\\_csc_projects\\Complete_csharp_Programming_Course\\WPF_Iteration_01\\WPFCustomApp - WBB Rework\\WPFCustomApp.csproj",
         "packagesPath": "C:\\Users\\wayne\\.nuget\\packages\\",
-        "outputPath": "C:\\_csc_projects\\Complete_csharp_Programming_Course\\WPFCustomApp - WBB Rework\\obj\\",
+        "outputPath": "C:\\_csc_projects\\Complete_csharp_Programming_Course\\WPF_Iteration_01\\WPFCustomApp - WBB Rework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
