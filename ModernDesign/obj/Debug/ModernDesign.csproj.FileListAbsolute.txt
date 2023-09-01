@@ -16,3 +16,8 @@ C:\_csc_projects\Complete_csharp_Programming_Course\ModernDesign\obj\Debug\Moder
 C:\_csc_projects\Complete_csharp_Programming_Course\ModernDesign\obj\Debug\Theme\MenuButtonTheme.baml
 C:\_csc_projects\Complete_csharp_Programming_Course\ModernDesign\obj\Debug\App.baml
 C:\_csc_projects\Complete_csharp_Programming_Course\ModernDesign\obj\Debug\Theme\TextBoxTheme.baml
+C:\_csc_projects\Complete_csharp_Programming_Course\ModernDesign\obj\Debug\MVVM\View\HomeView.g.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\ModernDesign\obj\Debug\MVVM\View\HomeView.baml
+C:\_csc_projects\Complete_csharp_Programming_Course\ModernDesign\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\ModernDesign\obj\Debug\MVVM\View\DiscoveryView.g.cs
+C:\_csc_projects\Complete_csharp_Programming_Course\ModernDesign\obj\Debug\MVVM\View\DiscoveryView.baml
